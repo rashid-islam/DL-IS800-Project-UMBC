@@ -1,0 +1,115 @@
+hyper-parameter configurations:
+vector size:  256 hidden layers:  [512, 256, 128] learning rate:  0.001 Drop out prob:  0.5
+mean_absolute_error:  0.732
+mean_squared_error:  0.834
+root_mean_squared_error:  0.913
+r2 score:  0.328
+
+
+Current best model:
+vector size:  256 hidden layers:  [512, 256, 128] learning rate:  0.001 Drop out prob:  0.5
+hyper-parameter configurations:
+vector size:  256 hidden layers:  [500, 400, 300] learning rate:  0.001 Drop out prob:  0.5
+mean_absolute_error:  0.929
+mean_squared_error:  1.240
+root_mean_squared_error:  1.114
+r2 score: -0.000
+hyper-parameter configurations:
+vector size:  256 hidden layers:  [400, 300, 200] learning rate:  0.001 Drop out prob:  0.5
+mean_absolute_error:  0.837
+mean_squared_error:  1.023
+root_mean_squared_error:  1.011
+r2 score:  0.175
+hyper-parameter configurations:
+vector size:  256 hidden layers:  [256, 128, 64] learning rate:  0.001 Drop out prob:  0.5
+mean_absolute_error:  0.711
+mean_squared_error:  0.815
+root_mean_squared_error:  0.903
+r2 score:  0.343
+
+
+Current best model:
+vector size:  256 hidden layers:  [256, 128, 64] learning rate:  0.001 Drop out prob:  0.5
+hyper-parameter configurations:
+vector size:  256 hidden layers:  [128, 64, 32] learning rate:  0.001 Drop out prob:  0.5
+mean_absolute_error:  0.715
+mean_squared_error:  0.815
+root_mean_squared_error:  0.903
+r2 score:  0.343
+
+
+Current best model:
+vector size:  256 hidden layers:  [128, 64, 32] learning rate:  0.001 Drop out prob:  0.5
+hyper-parameter configurations:
+vector size:  128 hidden layers:  [512, 256, 128] learning rate:  0.001 Drop out prob:  0.5
+mean_absolute_error:  0.822
+mean_squared_error:  0.997
+root_mean_squared_error:  0.999
+r2 score:  0.196
+hyper-parameter configurations:
+vector size:  128 hidden layers:  [500, 400, 300] learning rate:  0.001 Drop out prob:  0.5
+mean_absolute_error:  2.014
+mean_squared_error:  88.049
+root_mean_squared_error:  9.383
+r2 score: -70.009
+hyper-parameter configurations:
+vector size:  128 hidden layers:  [400, 300, 200] learning rate:  0.001 Drop out prob:  0.5
+mean_absolute_error:  0.873
+mean_squared_error:  1.090
+root_mean_squared_error:  1.044
+r2 score:  0.121
+hyper-parameter configurations:
+vector size:  128 hidden layers:  [256, 128, 64] learning rate:  0.001 Drop out prob:  0.5
+mean_absolute_error:  0.722
+mean_squared_error:  0.826
+root_mean_squared_error:  0.909
+r2 score:  0.333
+hyper-parameter configurations:
+vector size:  128 hidden layers:  [128, 64, 32] learning rate:  0.001 Drop out prob:  0.5
+mean_absolute_error:  0.716
+mean_squared_error:  0.819
+root_mean_squared_error:  0.905
+r2 score:  0.339
+hyper-parameter configurations:
+vector size:  64 hidden layers:  [512, 256, 128] learning rate:  0.001 Drop out prob:  0.5
+mean_absolute_error:  0.814
+mean_squared_error:  0.984
+root_mean_squared_error:  0.992
+r2 score:  0.207
+hyper-parameter configurations:
+vector size:  64 hidden layers:  [500, 400, 300] learning rate:  0.001 Drop out prob:  0.5
+mean_absolute_error:  0.834
+mean_squared_error:  1.012
+root_mean_squared_error:  1.006
+r2 score:  0.184
+hyper-parameter configurations:
+vector size:  64 hidden layers:  [400, 300, 200] learning rate:  0.001 Drop out prob:  0.5
+mean_absolute_error:  0.838
+mean_squared_error:  1.014
+root_mean_squared_error:  1.007
+r2 score:  0.182
+hyper-parameter configurations:
+vector size:  64 hidden layers:  [256, 128, 64] learning rate:  0.001 Drop out prob:  0.5
+mean_absolute_error:  0.748
+mean_squared_error:  0.865
+root_mean_squared_error:  0.930
+r2 score:  0.302
+hyper-parameter configurations:
+vector size:  64 hidden layers:  [128, 64, 32] learning rate:  0.001 Drop out prob:  0.5
+mean_absolute_error:  0.733
+mean_squared_error:  0.838
+root_mean_squared_error:  0.916
+r2 score:  0.324
+
+
+Evaluation on the test dataset:
+mean_absolute_error:  0.722
+mean_squared_error:  0.818
+root_mean_squared_error:  0.904
+r2 score:  0.330
+avg HR
+[0.         0.03839968 0.07207479 0.10203056 0.12746281 0.14927624
+ 0.1685766  0.18858062 0.20747889 0.22657821]
+avg NDCG
+[0.         0.03839968 0.05964631 0.07462419 0.08557727 0.09401585
+ 0.10089078 0.10755879 0.11352053 0.11926999]

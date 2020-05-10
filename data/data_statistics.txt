@@ -1,0 +1,14 @@
+Data Statistics for Movielens data set
+Number of movies:  3416.00
+Number of users:  6040.00
+Number of user-item interactions:  999611.00
+mean_absolute_error:  0.856
+mean_squared_error:  1.072
+root_mean_squared_error:  1.035
+r2 score:  0.122
+avg HR
+[0.         0.03739445 0.06855649 0.09760756 0.12243667 0.1486731
+ 0.17310012 0.19481303 0.21652593 0.23602734]
+avg NDCG
+[0.         0.03739445 0.05705551 0.07158104 0.08227436 0.092424
+ 0.10112508 0.10836271 0.11521237 0.12108288]

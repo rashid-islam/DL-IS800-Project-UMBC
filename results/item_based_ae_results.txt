@@ -1,0 +1,2337 @@
+hyper-parameter configurations:
+vector size:  32 hidden layers:  [512, 256, 128] learning rate:  0.0001 Drop out prob:  0.0
+mean_absolute_error:  0.759
+mean_squared_error:  0.902
+root_mean_squared_error:  0.950
+r2 score:  0.272
+avg HR
+[0.         0.10513053 0.17719988 0.23082351 0.27598024 0.31317408
+ 0.34694083 0.37637335 0.40318516 0.42677149]
+avg NDCG
+[0.         0.10513053 0.15060123 0.17741304 0.19686099 0.21124953
+ 0.22327749 0.23308833 0.24154651 0.24864671]
+
+
+Current best model:
+vector size:  32 hidden layers:  [512, 256, 128] learning rate:  0.0001 Drop out prob:  0.0
+hyper-parameter configurations:
+vector size:  32 hidden layers:  [512, 256, 128] learning rate:  0.0001 Drop out prob:  0.1
+mean_absolute_error:  0.753
+mean_squared_error:  0.895
+root_mean_squared_error:  0.946
+r2 score:  0.278
+avg HR
+[0.         0.10281222 0.17145449 0.22407015 0.26831973 0.30642072
+ 0.33776837 0.3668985  0.39360952 0.42032053]
+avg NDCG
+[0.         0.10281222 0.14612067 0.1724285  0.19148575 0.20622523
+ 0.21739149 0.22710153 0.23552792 0.24356874]
+
+
+Current best model:
+vector size:  32 hidden layers:  [512, 256, 128] learning rate:  0.0001 Drop out prob:  0.1
+hyper-parameter configurations:
+vector size:  32 hidden layers:  [512, 256, 128] learning rate:  0.0001 Drop out prob:  0.25
+mean_absolute_error:  0.738
+mean_squared_error:  0.874
+root_mean_squared_error:  0.935
+r2 score:  0.296
+avg HR
+[0.         0.10402177 0.16883379 0.21923193 0.26217115 0.30107852
+ 0.32899909 0.35560931 0.38100998 0.40641064]
+avg NDCG
+[0.         0.10402177 0.1449136  0.17011267 0.18860559 0.20365701
+ 0.21360252 0.2224726  0.23048561 0.23813198]
+
+
+Current best model:
+vector size:  32 hidden layers:  [512, 256, 128] learning rate:  0.0001 Drop out prob:  0.25
+hyper-parameter configurations:
+vector size:  32 hidden layers:  [512, 256, 128] learning rate:  0.0001 Drop out prob:  0.5
+mean_absolute_error:  0.745
+mean_squared_error:  0.902
+root_mean_squared_error:  0.950
+r2 score:  0.273
+avg HR
+[0.         0.09817559 0.16641468 0.2146961  0.25692974 0.29241004
+ 0.3234553  0.35107348 0.37556698 0.39985889]
+avg NDCG
+[0.         0.09817559 0.14122966 0.16537037 0.18355941 0.19728506
+ 0.20834361 0.21754967 0.22527651 0.2325891 ]
+hyper-parameter configurations:
+vector size:  32 hidden layers:  [512, 256, 128] learning rate:  0.001 Drop out prob:  0.0
+mean_absolute_error:  0.700
+mean_squared_error:  0.784
+root_mean_squared_error:  0.885
+r2 score:  0.368
+avg HR
+[0.         0.08859994 0.13667977 0.17246245 0.20612841 0.23425058
+ 0.25713134 0.28414474 0.30541276 0.32647919]
+avg NDCG
+[0.         0.08859994 0.11893494 0.13682628 0.15132542 0.16220456
+ 0.17035485 0.17935931 0.18606863 0.19241025]
+
+
+Current best model:
+vector size:  32 hidden layers:  [512, 256, 128] learning rate:  0.001 Drop out prob:  0.0
+hyper-parameter configurations:
+vector size:  32 hidden layers:  [512, 256, 128] learning rate:  0.001 Drop out prob:  0.1
+mean_absolute_error:  0.703
+mean_squared_error:  0.790
+root_mean_squared_error:  0.889
+r2 score:  0.363
+avg HR
+[0.         0.06652555 0.10795283 0.13990525 0.1711521  0.19352888
+ 0.21449451 0.23546014 0.25672815 0.27648423]
+avg NDCG
+[0.         0.06652555 0.09266325 0.10863946 0.12209675 0.13075327
+ 0.13822138 0.14520992 0.15191923 0.1578664 ]
+hyper-parameter configurations:
+vector size:  32 hidden layers:  [512, 256, 128] learning rate:  0.001 Drop out prob:  0.25
+mean_absolute_error:  0.707
+mean_squared_error:  0.826
+root_mean_squared_error:  0.909
+r2 score:  0.334
+avg HR
+[0.         0.08013305 0.12932164 0.16651547 0.19927427 0.23031952
+ 0.25955045 0.28515271 0.30682391 0.32970467]
+avg NDCG
+[0.         0.08013305 0.1111676  0.12976451 0.14387296 0.1558829
+ 0.16629517 0.17482925 0.18166576 0.18855355]
+hyper-parameter configurations:
+vector size:  32 hidden layers:  [512, 256, 128] learning rate:  0.001 Drop out prob:  0.5
+mean_absolute_error:  0.734
+mean_squared_error:  0.840
+root_mean_squared_error:  0.916
+r2 score:  0.323
+avg HR
+[0.         0.06934785 0.11510936 0.14917851 0.18103014 0.20633001
+ 0.22759802 0.24816047 0.27073884 0.28706784]
+avg NDCG
+[0.         0.06934785 0.09822015 0.11525472 0.12897247 0.1387598
+ 0.14633562 0.15318977 0.16031245 0.16522797]
+hyper-parameter configurations:
+vector size:  32 hidden layers:  [512, 256, 128] learning rate:  0.01 Drop out prob:  0.0
+mean_absolute_error:  1.357
+mean_squared_error:  3.220
+root_mean_squared_error:  1.794
+r2 score: -1.597
+avg HR
+[0.         0.07428687 0.12397944 0.16328999 0.19947586 0.23011793
+ 0.25834089 0.2827336  0.30682391 0.3286967 ]
+avg NDCG
+[0.         0.07428687 0.10563939 0.12529466 0.14087907 0.15273304
+ 0.16278626 0.17091716 0.17851681 0.18510118]
+hyper-parameter configurations:
+vector size:  32 hidden layers:  [512, 256, 128] learning rate:  0.01 Drop out prob:  0.1
+mean_absolute_error:  0.952
+mean_squared_error:  2.448
+root_mean_squared_error:  1.565
+r2 score: -0.974
+avg HR
+[0.         0.08134261 0.13355509 0.17286564 0.20693478 0.2364681
+ 0.26489265 0.29130128 0.31549239 0.3397843 ]
+avg NDCG
+[0.         0.08134261 0.11428501 0.13394029 0.14861307 0.16003812
+ 0.17016315 0.17896602 0.18659747 0.19391006]
+hyper-parameter configurations:
+vector size:  32 hidden layers:  [512, 256, 128] learning rate:  0.01 Drop out prob:  0.25
+mean_absolute_error:  0.912
+mean_squared_error:  1.658
+root_mean_squared_error:  1.288
+r2 score: -0.337
+avg HR
+[0.         0.05201089 0.07993146 0.10291301 0.12569297 0.14968249
+ 0.16994255 0.18858986 0.20854753 0.22326378]
+avg NDCG
+[0.         0.05201089 0.06962681 0.08111758 0.09092838 0.10020879
+ 0.10742557 0.11364134 0.11993728 0.12436732]
+hyper-parameter configurations:
+vector size:  32 hidden layers:  [512, 256, 128] learning rate:  0.01 Drop out prob:  0.5
+mean_absolute_error:  1.113
+mean_squared_error:  2.629
+root_mean_squared_error:  1.621
+r2 score: -1.120
+avg HR
+[0.         0.09273259 0.14565064 0.18516279 0.21570406 0.23959278
+ 0.26448947 0.28313678 0.30490878 0.32214495]
+avg NDCG
+[0.         0.09273259 0.12612016 0.14587623 0.15902965 0.16827106
+ 0.17713944 0.18335521 0.19022351 0.19541212]
+hyper-parameter configurations:
+vector size:  32 hidden layers:  [256, 128, 64] learning rate:  0.0001 Drop out prob:  0.0
+mean_absolute_error:  0.782
+mean_squared_error:  0.955
+root_mean_squared_error:  0.977
+r2 score:  0.229
+avg HR
+[0.         0.12246749 0.19141216 0.25128515 0.29755065 0.33897793
+ 0.37657494 0.41094648 0.44179014 0.47061788]
+avg NDCG
+[0.         0.12246749 0.16596673 0.19590323 0.2158287  0.23185495
+ 0.24524728 0.25670446 0.26643455 0.27511257]
+hyper-parameter configurations:
+vector size:  32 hidden layers:  [256, 128, 64] learning rate:  0.0001 Drop out prob:  0.1
+mean_absolute_error:  0.785
+mean_squared_error:  0.964
+root_mean_squared_error:  0.982
+r2 score:  0.223
+avg HR
+[0.         0.12559218 0.19967745 0.25400665 0.30057454 0.33897793
+ 0.37707892 0.40953533 0.43856466 0.46769479]
+avg NDCG
+[0.         0.12559218 0.17233478 0.19949938 0.21955508 0.23441154
+ 0.24798339 0.25880219 0.26795992 0.27672896]
+hyper-parameter configurations:
+vector size:  32 hidden layers:  [256, 128, 64] learning rate:  0.0001 Drop out prob:  0.25
+mean_absolute_error:  0.779
+mean_squared_error:  0.960
+root_mean_squared_error:  0.980
+r2 score:  0.226
+avg HR
+[0.         0.12075396 0.19191614 0.24372543 0.29109969 0.32819272
+ 0.36155629 0.39532305 0.42596512 0.45307933]
+avg NDCG
+[0.         0.12075396 0.16565229 0.19155694 0.21195992 0.22630947
+ 0.23819381 0.2494494  0.25911589 0.26727808]
+hyper-parameter configurations:
+vector size:  32 hidden layers:  [256, 128, 64] learning rate:  0.0001 Drop out prob:  0.5
+mean_absolute_error:  0.779
+mean_squared_error:  0.968
+root_mean_squared_error:  0.984
+r2 score:  0.219
+avg HR
+[0.         0.11823405 0.19342808 0.24674932 0.29241004 0.33353493
+ 0.36800726 0.40449551 0.43150892 0.45811914]
+avg NDCG
+[0.         0.11823405 0.1656762  0.19233682 0.21200182 0.2279111
+ 0.24019039 0.25235314 0.26087493 0.2688854 ]
+hyper-parameter configurations:
+vector size:  32 hidden layers:  [256, 128, 64] learning rate:  0.001 Drop out prob:  0.0
+mean_absolute_error:  0.724
+mean_squared_error:  0.816
+root_mean_squared_error:  0.904
+r2 score:  0.342
+avg HR
+[0.         0.06602157 0.1032154  0.13506703 0.16238282 0.18818667
+ 0.21147062 0.2336458  0.2525955  0.27154521]
+avg NDCG
+[0.         0.06602157 0.08948827 0.10541408 0.11717835 0.12716064
+ 0.13545455 0.14284628 0.14882425 0.15452867]
+hyper-parameter configurations:
+vector size:  32 hidden layers:  [256, 128, 64] learning rate:  0.001 Drop out prob:  0.1
+mean_absolute_error:  0.703
+mean_squared_error:  0.796
+root_mean_squared_error:  0.892
+r2 score:  0.358
+avg HR
+[0.         0.07559722 0.12004838 0.15804858 0.1873803  0.21409132
+ 0.24060075 0.26388469 0.28474952 0.30329604]
+avg NDCG
+[0.         0.07559722 0.10364278 0.12264288 0.13527537 0.1456086
+ 0.15505144 0.16281276 0.16939488 0.17497794]
+hyper-parameter configurations:
+vector size:  32 hidden layers:  [256, 128, 64] learning rate:  0.001 Drop out prob:  0.25
+mean_absolute_error:  0.722
+mean_squared_error:  0.831
+root_mean_squared_error:  0.911
+r2 score:  0.330
+avg HR
+[0.         0.07489164 0.12468501 0.1629876  0.19816551 0.2282028
+ 0.25188993 0.27598024 0.29845782 0.31680274]
+avg NDCG
+[0.         0.07489164 0.10630776 0.12545906 0.14060936 0.15222937
+ 0.16066689 0.168697   0.17578788 0.18131025]
+hyper-parameter configurations:
+vector size:  32 hidden layers:  [256, 128, 64] learning rate:  0.001 Drop out prob:  0.5
+mean_absolute_error:  0.716
+mean_squared_error:  0.818
+root_mean_squared_error:  0.904
+r2 score:  0.340
+avg HR
+[0.         0.07640359 0.12922084 0.16681786 0.20179417 0.22921077
+ 0.25320028 0.27678661 0.30017135 0.31992743]
+avg NDCG
+[0.         0.07640359 0.10972757 0.12852608 0.14358955 0.15419574
+ 0.16274098 0.17060309 0.17798015 0.18392732]
+hyper-parameter configurations:
+vector size:  32 hidden layers:  [256, 128, 64] learning rate:  0.01 Drop out prob:  0.0
+mean_absolute_error:  0.728
+mean_squared_error:  0.863
+root_mean_squared_error:  0.929
+r2 score:  0.304
+avg HR
+[0.         0.07529483 0.1277089  0.16651547 0.19766153 0.22487652
+ 0.24957162 0.27356113 0.29563552 0.31549239]
+avg NDCG
+[0.         0.07529483 0.10836443 0.12776771 0.14118159 0.15170979
+ 0.16050635 0.16850286 0.17546655 0.18144407]
+hyper-parameter configurations:
+vector size:  32 hidden layers:  [256, 128, 64] learning rate:  0.01 Drop out prob:  0.1
+mean_absolute_error:  0.783
+mean_squared_error:  0.931
+root_mean_squared_error:  0.965
+r2 score:  0.249
+avg HR
+[0.         0.05836105 0.09656285 0.1305312  0.16087088 0.18949703
+ 0.21388973 0.23727447 0.26227195 0.28696704]
+avg NDCG
+[0.         0.05836105 0.0824637  0.09944788 0.11251447 0.12358857
+ 0.13227743 0.14007234 0.14795817 0.15539213]
+hyper-parameter configurations:
+vector size:  32 hidden layers:  [256, 128, 64] learning rate:  0.01 Drop out prob:  0.25
+mean_absolute_error:  0.796
+mean_squared_error:  0.986
+root_mean_squared_error:  0.993
+r2 score:  0.205
+avg HR
+[0.         0.0789235  0.12982562 0.16691866 0.19977825 0.2309243
+ 0.25864328 0.28243121 0.3016833  0.32133857]
+avg NDCG
+[0.         0.0789235  0.11103916 0.12958568 0.14373753 0.15578647
+ 0.16566017 0.17358948 0.17966284 0.18557967]
+hyper-parameter configurations:
+vector size:  32 hidden layers:  [256, 128, 64] learning rate:  0.01 Drop out prob:  0.5
+mean_absolute_error:  0.772
+mean_squared_error:  0.940
+root_mean_squared_error:  0.969
+r2 score:  0.242
+avg HR
+[0.         0.08527366 0.12912005 0.1629876  0.19000101 0.2145953
+ 0.23848402 0.25924806 0.27890334 0.29744985]
+avg NDCG
+[0.         0.08527366 0.11293765 0.12987143 0.14150547 0.15101984
+ 0.15952918 0.16645052 0.17265107 0.17823413]
+hyper-parameter configurations:
+vector size:  32 hidden layers:  [128, 64, 32] learning rate:  0.0001 Drop out prob:  0.0
+mean_absolute_error:  0.958
+mean_squared_error:  1.492
+root_mean_squared_error:  1.222
+r2 score: -0.203
+avg HR
+[0.         0.1277089  0.20058462 0.26035682 0.30833585 0.35036791
+ 0.38665457 0.41911098 0.45076101 0.47525451]
+avg NDCG
+[0.         0.1277089  0.17368836 0.20357446 0.2242379  0.24049812
+ 0.25342369 0.2642425  0.27422697 0.28160025]
+hyper-parameter configurations:
+vector size:  32 hidden layers:  [128, 64, 32] learning rate:  0.0001 Drop out prob:  0.1
+mean_absolute_error:  1.012
+mean_squared_error:  1.620
+root_mean_squared_error:  1.273
+r2 score: -0.306
+avg HR
+[0.         0.12811209 0.20300373 0.25904647 0.30843665 0.35288781
+ 0.38907368 0.42163088 0.45257535 0.48231025]
+avg NDCG
+[0.         0.12811209 0.17536345 0.20338482 0.22465601 0.24185207
+ 0.25474174 0.26559414 0.27535603 0.28430713]
+hyper-parameter configurations:
+vector size:  32 hidden layers:  [128, 64, 32] learning rate:  0.0001 Drop out prob:  0.25
+mean_absolute_error:  0.996
+mean_squared_error:  1.570
+root_mean_squared_error:  1.253
+r2 score: -0.266
+avg HR
+[0.         0.12539059 0.20320532 0.25904647 0.30692471 0.34855357
+ 0.38524342 0.41971575 0.45307933 0.47938716]
+avg NDCG
+[0.         0.12539059 0.17448622 0.20240679 0.22302683 0.23913107
+ 0.25220026 0.26369104 0.27421607 0.28213552]
+hyper-parameter configurations:
+vector size:  32 hidden layers:  [128, 64, 32] learning rate:  0.0001 Drop out prob:  0.5
+mean_absolute_error:  0.996
+mean_squared_error:  1.598
+root_mean_squared_error:  1.264
+r2 score: -0.289
+avg HR
+[0.         0.12710412 0.20058462 0.26055841 0.30500958 0.34835198
+ 0.38413466 0.41810301 0.44662836 0.47454894]
+avg NDCG
+[0.         0.12710412 0.17346515 0.20345205 0.22259612 0.23936326
+ 0.2521093  0.26343209 0.27243083 0.28083576]
+hyper-parameter configurations:
+vector size:  32 hidden layers:  [128, 64, 32] learning rate:  0.001 Drop out prob:  0.0
+mean_absolute_error:  0.720
+mean_squared_error:  0.819
+root_mean_squared_error:  0.905
+r2 score:  0.339
+avg HR
+[0.         0.05765548 0.09615966 0.12861607 0.15734301 0.1846588
+ 0.20985788 0.23223465 0.2500756  0.271646  ]
+avg NDCG
+[0.         0.05765548 0.08194891 0.09817712 0.11054914 0.12111633
+ 0.13009242 0.13755134 0.14317954 0.14967288]
+hyper-parameter configurations:
+vector size:  32 hidden layers:  [128, 64, 32] learning rate:  0.001 Drop out prob:  0.1
+mean_absolute_error:  0.725
+mean_squared_error:  0.826
+root_mean_squared_error:  0.909
+r2 score:  0.334
+avg HR
+[0.         0.05755468 0.10190505 0.13516783 0.16591069 0.19352888
+ 0.21640964 0.23898801 0.26116319 0.28142324]
+avg NDCG
+[0.         0.05755468 0.08553665 0.10216804 0.11540827 0.12609244
+ 0.13424273 0.14176885 0.14876435 0.15486323]
+hyper-parameter configurations:
+vector size:  32 hidden layers:  [128, 64, 32] learning rate:  0.001 Drop out prob:  0.25
+mean_absolute_error:  0.736
+mean_squared_error:  0.847
+root_mean_squared_error:  0.920
+r2 score:  0.317
+avg HR
+[0.         0.07317811 0.11883883 0.1549239  0.18697712 0.21257938
+ 0.23717367 0.25884487 0.27819776 0.29734906]
+avg NDCG
+[0.         0.07317811 0.10198681 0.12002935 0.13383392 0.14373823
+ 0.15249889 0.15972262 0.16582778 0.1715929 ]
+hyper-parameter configurations:
+vector size:  32 hidden layers:  [128, 64, 32] learning rate:  0.001 Drop out prob:  0.5
+mean_absolute_error:  0.737
+mean_squared_error:  0.882
+root_mean_squared_error:  0.939
+r2 score:  0.289
+avg HR
+[0.         0.08507207 0.14282834 0.18778349 0.22457414 0.2580385
+ 0.28726943 0.31468602 0.3368612  0.36115311]
+avg NDCG
+[0.         0.08507207 0.12151222 0.14398979 0.15983466 0.17278045
+ 0.18319271 0.19233158 0.19932707 0.20663966]
+hyper-parameter configurations:
+vector size:  32 hidden layers:  [128, 64, 32] learning rate:  0.01 Drop out prob:  0.0
+mean_absolute_error:  0.840
+mean_squared_error:  1.061
+root_mean_squared_error:  1.030
+r2 score:  0.145
+avg HR
+[0.         0.06682794 0.10684407 0.14101401 0.17216006 0.19866949
+ 0.22255821 0.24483419 0.26469106 0.28585828]
+avg NDCG
+[0.         0.06682794 0.09207531 0.10916028 0.12257415 0.1328294
+ 0.14133873 0.14876406 0.1550282  0.16140017]
+hyper-parameter configurations:
+vector size:  32 hidden layers:  [128, 64, 32] learning rate:  0.01 Drop out prob:  0.1
+mean_absolute_error:  0.721
+mean_squared_error:  0.844
+root_mean_squared_error:  0.918
+r2 score:  0.320
+avg HR
+[0.         0.06995263 0.11178309 0.14766657 0.1792158  0.20723717
+ 0.23152908 0.25491382 0.27789537 0.29835702]
+avg NDCG
+[0.         0.06995263 0.09634471 0.11428645 0.12787397 0.13871411
+ 0.14736706 0.15516198 0.16241185 0.16857142]
+hyper-parameter configurations:
+vector size:  32 hidden layers:  [128, 64, 32] learning rate:  0.01 Drop out prob:  0.25
+mean_absolute_error:  0.769
+mean_squared_error:  0.908
+root_mean_squared_error:  0.953
+r2 score:  0.267
+avg HR
+[0.         0.07761314 0.12327386 0.16167725 0.19110977 0.21761919
+ 0.24170951 0.26327991 0.28293519 0.30067534]
+avg NDCG
+[0.         0.07761314 0.10642185 0.12562354 0.13829944 0.14855468
+ 0.15713583 0.16432596 0.17052651 0.17586683]
+hyper-parameter configurations:
+vector size:  32 hidden layers:  [128, 64, 32] learning rate:  0.01 Drop out prob:  0.5
+mean_absolute_error:  0.716
+mean_squared_error:  0.829
+root_mean_squared_error:  0.911
+r2 score:  0.331
+avg HR
+[0.         0.07630279 0.12559218 0.16520512 0.19947586 0.22759802
+ 0.25491382 0.2798105  0.30259046 0.32143937]
+avg NDCG
+[0.         0.07630279 0.10740093 0.1272074  0.14196701 0.15284615
+ 0.16257623 0.17087512 0.1780614  0.18373549]
+hyper-parameter configurations:
+vector size:  32 hidden layers:  [64, 32, 16] learning rate:  0.0001 Drop out prob:  0.0
+mean_absolute_error:  1.913
+mean_squared_error:  5.314
+root_mean_squared_error:  2.305
+r2 score: -3.286
+avg HR
+[0.         0.11450459 0.1821389  0.23273864 0.27598024 0.31710513
+ 0.34815039 0.37697813 0.40550348 0.43120653]
+avg NDCG
+[0.         0.11450459 0.15717709 0.18247695 0.2011001  0.21700938
+ 0.22806792 0.23767717 0.24667592 0.25441331]
+hyper-parameter configurations:
+vector size:  32 hidden layers:  [64, 32, 16] learning rate:  0.0001 Drop out prob:  0.1
+mean_absolute_error:  1.954
+mean_squared_error:  5.568
+root_mean_squared_error:  2.360
+r2 score: -3.491
+avg HR
+[0.         0.1113799  0.17730068 0.22880758 0.27104123 0.30914222
+ 0.34210261 0.37082955 0.39623022 0.42223566]
+avg NDCG
+[0.         0.1113799  0.15297128 0.17872473 0.19691377 0.21165325
+ 0.22339398 0.23296962 0.24098264 0.24881106]
+hyper-parameter configurations:
+vector size:  32 hidden layers:  [64, 32, 16] learning rate:  0.0001 Drop out prob:  0.25
+mean_absolute_error:  1.923
+mean_squared_error:  5.531
+root_mean_squared_error:  2.352
+r2 score: -3.461
+avg HR
+[0.         0.10825522 0.17326882 0.22568289 0.26791654 0.30460639
+ 0.33817156 0.36992239 0.39733898 0.42173168]
+avg NDCG
+[0.         0.10825522 0.14927424 0.17548127 0.19367031 0.20786388
+ 0.21982004 0.23040365 0.23905262 0.24639555]
+hyper-parameter configurations:
+vector size:  32 hidden layers:  [64, 32, 16] learning rate:  0.0001 Drop out prob:  0.5
+mean_absolute_error:  1.994
+mean_squared_error:  5.667
+root_mean_squared_error:  2.380
+r2 score: -3.570
+avg HR
+[0.         0.11047273 0.1765951  0.22638847 0.26993247 0.3098478
+ 0.34563048 0.37546618 0.40016127 0.42616672]
+avg NDCG
+[0.         0.11047273 0.1521913  0.17708799 0.19584137 0.21128272
+ 0.22402877 0.23397401 0.24176444 0.24959286]
+hyper-parameter configurations:
+vector size:  32 hidden layers:  [64, 32, 16] learning rate:  0.001 Drop out prob:  0.0
+mean_absolute_error:  0.719
+mean_squared_error:  0.825
+root_mean_squared_error:  0.908
+r2 score:  0.335
+avg HR
+[0.         0.07005342 0.11843564 0.1603669  0.1956456  0.22790041
+ 0.2554178  0.28061687 0.30561435 0.32819272]
+avg NDCG
+[0.         0.07005342 0.1005792  0.12154483 0.13673854 0.14921641
+ 0.1590183  0.16741799 0.17530382 0.18210058]
+hyper-parameter configurations:
+vector size:  32 hidden layers:  [64, 32, 16] learning rate:  0.001 Drop out prob:  0.1
+mean_absolute_error:  0.717
+mean_squared_error:  0.828
+root_mean_squared_error:  0.910
+r2 score:  0.333
+avg HR
+[0.         0.05936902 0.10734805 0.15008568 0.18445721 0.21852636
+ 0.249874   0.27235158 0.29724826 0.31851628]
+avg NDCG
+[0.         0.05936902 0.08964042 0.11100923 0.12581224 0.13899199
+ 0.15015825 0.15765077 0.1655048  0.17190711]
+hyper-parameter configurations:
+vector size:  32 hidden layers:  [64, 32, 16] learning rate:  0.001 Drop out prob:  0.25
+mean_absolute_error:  0.733
+mean_squared_error:  0.844
+root_mean_squared_error:  0.918
+r2 score:  0.320
+avg HR
+[0.         0.07499244 0.12387864 0.16379397 0.19917347 0.22991634
+ 0.2554178  0.2798105  0.30511037 0.32829352]
+avg NDCG
+[0.         0.07499244 0.1058362  0.12579386 0.14103099 0.15292395
+ 0.16200775 0.17013865 0.17811987 0.1850987 ]
+hyper-parameter configurations:
+vector size:  32 hidden layers:  [64, 32, 16] learning rate:  0.001 Drop out prob:  0.5
+mean_absolute_error:  0.729
+mean_squared_error:  0.837
+root_mean_squared_error:  0.915
+r2 score:  0.325
+avg HR
+[0.         0.06088096 0.10220744 0.13698216 0.16893458 0.20179417
+ 0.22880758 0.2525955  0.27648423 0.30027215]
+avg NDCG
+[0.         0.06088096 0.08695506 0.10434243 0.11810359 0.13081541
+ 0.14043778 0.14836709 0.15590314 0.16306402]
+hyper-parameter configurations:
+vector size:  32 hidden layers:  [64, 32, 16] learning rate:  0.01 Drop out prob:  0.0
+mean_absolute_error:  0.708
+mean_squared_error:  0.813
+root_mean_squared_error:  0.902
+r2 score:  0.345
+avg HR
+[0.         0.10281222 0.1630884  0.2091523  0.24543897 0.27789537
+ 0.30631993 0.32819272 0.35167826 0.37314787]
+avg NDCG
+[0.         0.10281222 0.14084225 0.16387421 0.17950202 0.19205787
+ 0.2021829  0.20947384 0.2168827  0.22334569]
+hyper-parameter configurations:
+vector size:  32 hidden layers:  [64, 32, 16] learning rate:  0.01 Drop out prob:  0.1
+mean_absolute_error:  0.703
+mean_squared_error:  0.797
+root_mean_squared_error:  0.893
+r2 score:  0.357
+avg HR
+[0.         0.07025501 0.11188388 0.1439371  0.17306723 0.19776232
+ 0.21771999 0.23777845 0.25410745 0.27013406]
+avg NDCG
+[0.         0.07025501 0.09651991 0.11254652 0.12509218 0.13464554
+ 0.14175461 0.14844076 0.15359199 0.15841648]
+hyper-parameter configurations:
+vector size:  32 hidden layers:  [64, 32, 16] learning rate:  0.01 Drop out prob:  0.25
+mean_absolute_error:  0.720
+mean_squared_error:  0.854
+root_mean_squared_error:  0.924
+r2 score:  0.311
+avg HR
+[0.         0.07358129 0.11773007 0.15300877 0.18889225 0.22225582
+ 0.25017639 0.27608104 0.29936498 0.31740752]
+avg NDCG
+[0.         0.07358129 0.10143607 0.11907542 0.13452959 0.14743638
+ 0.15738189 0.16601677 0.17336204 0.17879339]
+hyper-parameter configurations:
+vector size:  32 hidden layers:  [64, 32, 16] learning rate:  0.01 Drop out prob:  0.5
+mean_absolute_error:  0.729
+mean_squared_error:  0.830
+root_mean_squared_error:  0.911
+r2 score:  0.330
+avg HR
+[0.         0.0625945  0.09938514 0.13163996 0.16046769 0.18838827
+ 0.21288177 0.23515775 0.25793771 0.27880254]
+avg NDCG
+[0.         0.0625945  0.08580681 0.10193422 0.11434965 0.1251508
+ 0.13387556 0.14130089 0.14848716 0.1547681 ]
+hyper-parameter configurations:
+vector size:  64 hidden layers:  [512, 256, 128] learning rate:  0.0001 Drop out prob:  0.0
+mean_absolute_error:  0.762
+mean_squared_error:  0.907
+root_mean_squared_error:  0.953
+r2 score:  0.268
+avg HR
+[0.         0.11752847 0.18546517 0.23777845 0.28313678 0.32022982
+ 0.35218224 0.38191715 0.4103417  0.43574236]
+avg NDCG
+[0.         0.11752847 0.16039176 0.1865484  0.20608317 0.22043271
+ 0.2318144  0.24172603 0.25069298 0.25833934]
+hyper-parameter configurations:
+vector size:  64 hidden layers:  [512, 256, 128] learning rate:  0.0001 Drop out prob:  0.1
+mean_absolute_error:  0.754
+mean_squared_error:  0.898
+root_mean_squared_error:  0.947
+r2 score:  0.276
+avg HR
+[0.         0.11460538 0.18042536 0.23445217 0.27678661 0.31478682
+ 0.34905755 0.38161476 0.40842657 0.43382724]
+avg NDCG
+[0.         0.11460538 0.15613316 0.18314657 0.20137902 0.21607951
+ 0.22828699 0.23913939 0.24759758 0.25524394]
+hyper-parameter configurations:
+vector size:  64 hidden layers:  [512, 256, 128] learning rate:  0.0001 Drop out prob:  0.25
+mean_absolute_error:  0.743
+mean_squared_error:  0.883
+root_mean_squared_error:  0.940
+r2 score:  0.288
+avg HR
+[0.         0.10533212 0.17135369 0.22407015 0.26408628 0.30238887
+ 0.3342405  0.364177   0.39098881 0.41598629]
+avg NDCG
+[0.         0.10533212 0.1469871  0.17334533 0.19057933 0.2053968
+ 0.21674258 0.22672141 0.2351796  0.24270459]
+hyper-parameter configurations:
+vector size:  64 hidden layers:  [512, 256, 128] learning rate:  0.0001 Drop out prob:  0.5
+mean_absolute_error:  0.738
+mean_squared_error:  0.887
+root_mean_squared_error:  0.942
+r2 score:  0.285
+avg HR
+[0.         0.10261062 0.16429795 0.21419212 0.26217115 0.29563552
+ 0.32748715 0.35530692 0.38100998 0.4049995 ]
+avg NDCG
+[0.         0.10261062 0.141531   0.16647808 0.18714152 0.20008731
+ 0.21143309 0.22070635 0.22881476 0.23603632]
+hyper-parameter configurations:
+vector size:  64 hidden layers:  [512, 256, 128] learning rate:  0.001 Drop out prob:  0.0
+mean_absolute_error:  0.705
+mean_squared_error:  0.786
+root_mean_squared_error:  0.887
+r2 score:  0.366
+avg HR
+[0.         0.07811713 0.1221651  0.16197964 0.19312569 0.22084467
+ 0.24493499 0.27013406 0.29150287 0.30914222]
+avg NDCG
+[0.         0.07811713 0.10590831 0.12581557 0.13922945 0.14995261
+ 0.15853376 0.16693345 0.17367456 0.17898453]
+hyper-parameter configurations:
+vector size:  64 hidden layers:  [512, 256, 128] learning rate:  0.001 Drop out prob:  0.1
+mean_absolute_error:  0.695
+mean_squared_error:  0.778
+root_mean_squared_error:  0.882
+r2 score:  0.372
+avg HR
+[0.         0.07136377 0.1169237  0.15472231 0.18576756 0.21388973
+ 0.24201189 0.26751336 0.28847898 0.31216611]
+avg NDCG
+[0.         0.07136377 0.10010889 0.11900819 0.13237865 0.14325779
+ 0.15327511 0.1617756  0.16838952 0.17552005]
+
+
+Current best model:
+vector size:  64 hidden layers:  [512, 256, 128] learning rate:  0.001 Drop out prob:  0.1
+hyper-parameter configurations:
+vector size:  64 hidden layers:  [512, 256, 128] learning rate:  0.001 Drop out prob:  0.25
+mean_absolute_error:  0.725
+mean_squared_error:  0.825
+root_mean_squared_error:  0.909
+r2 score:  0.334
+avg HR
+[0.         0.06440883 0.10785203 0.14282834 0.17226086 0.20330612
+ 0.22880758 0.25078117 0.27235158 0.29120048]
+avg NDCG
+[0.         0.06440883 0.09181844 0.10930659 0.12198249 0.13399243
+ 0.14307624 0.15040077 0.15720547 0.16287956]
+hyper-parameter configurations:
+vector size:  64 hidden layers:  [512, 256, 128] learning rate:  0.001 Drop out prob:  0.5
+mean_absolute_error:  0.699
+mean_squared_error:  0.798
+root_mean_squared_error:  0.893
+r2 score:  0.357
+avg HR
+[0.         0.06390485 0.11047273 0.14786816 0.17840943 0.20723717
+ 0.2336458  0.25763532 0.27829856 0.29785304]
+avg NDCG
+[0.         0.06390485 0.09328591 0.11198363 0.12513704 0.13628913
+ 0.14569607 0.15369258 0.1602111  0.16609759]
+hyper-parameter configurations:
+vector size:  64 hidden layers:  [512, 256, 128] learning rate:  0.01 Drop out prob:  0.0
+mean_absolute_error:  0.821
+mean_squared_error:  2.043
+root_mean_squared_error:  1.429
+r2 score: -0.648
+avg HR
+[0.         0.02610624 0.05926822 0.09555488 0.1305312  0.16117327
+ 0.19252092 0.2228606  0.25219232 0.28021369]
+avg NDCG
+[0.         0.02610624 0.04702912 0.06517245 0.08023593 0.0920899
+ 0.10325616 0.11336939 0.12262251 0.13105779]
+hyper-parameter configurations:
+vector size:  64 hidden layers:  [512, 256, 128] learning rate:  0.01 Drop out prob:  0.1
+mean_absolute_error:  1.058
+mean_squared_error:  2.020
+root_mean_squared_error:  1.421
+r2 score: -0.629
+avg HR
+[0.         0.09847798 0.15472231 0.20411249 0.24795888 0.28767261
+ 0.32355609 0.35691967 0.38836811 0.41739744]
+avg NDCG
+[0.         0.09847798 0.1339642  0.15865929 0.1775429  0.19290627
+ 0.20568822 0.21680941 0.22673029 0.23546899]
+hyper-parameter configurations:
+vector size:  64 hidden layers:  [512, 256, 128] learning rate:  0.01 Drop out prob:  0.25
+mean_absolute_error:  0.855
+mean_squared_error:  1.345
+root_mean_squared_error:  1.160
+r2 score: -0.085
+avg HR
+[0.         0.0898095  0.14716258 0.19141216 0.22991634 0.26317912
+ 0.29150287 0.31750832 0.33938111 0.36326983]
+avg NDCG
+[0.         0.0898095  0.12599527 0.14812005 0.1647029  0.1775707
+ 0.18765982 0.19632831 0.2032284  0.21041963]
+hyper-parameter configurations:
+vector size:  64 hidden layers:  [512, 256, 128] learning rate:  0.01 Drop out prob:  0.5
+mean_absolute_error:  1.090
+mean_squared_error:  2.226
+root_mean_squared_error:  1.492
+r2 score: -0.795
+avg HR
+[0.         0.08366092 0.13345429 0.17216006 0.20320532 0.23162988
+ 0.2526963  0.27587945 0.29906259 0.32154017]
+avg NDCG
+[0.         0.08366092 0.11507704 0.13442993 0.14780039 0.15879651
+ 0.16630052 0.17402824 0.18134171 0.18810813]
+hyper-parameter configurations:
+vector size:  64 hidden layers:  [256, 128, 64] learning rate:  0.0001 Drop out prob:  0.0
+mean_absolute_error:  0.783
+mean_squared_error:  0.959
+root_mean_squared_error:  0.979
+r2 score:  0.227
+avg HR
+[0.         0.12468501 0.19443604 0.2527971  0.29966737 0.33998589
+ 0.37818768 0.4130632  0.4456204  0.47464973]
+avg NDCG
+[0.         0.12468501 0.16869301 0.19787354 0.21805947 0.2336568
+ 0.24726455 0.25888973 0.26916038 0.27789908]
+hyper-parameter configurations:
+vector size:  64 hidden layers:  [256, 128, 64] learning rate:  0.0001 Drop out prob:  0.1
+mean_absolute_error:  0.783
+mean_squared_error:  0.958
+root_mean_squared_error:  0.979
+r2 score:  0.228
+avg HR
+[0.         0.12387864 0.19604879 0.25249471 0.29482915 0.33474448
+ 0.36841044 0.40399153 0.4348352  0.4618486 ]
+avg NDCG
+[0.         0.12387864 0.16941293 0.19763589 0.21586835 0.2313097
+ 0.24330176 0.25516212 0.26489222 0.27302406]
+hyper-parameter configurations:
+vector size:  64 hidden layers:  [256, 128, 64] learning rate:  0.0001 Drop out prob:  0.25
+mean_absolute_error:  0.775
+mean_squared_error:  0.946
+root_mean_squared_error:  0.972
+r2 score:  0.237
+avg HR
+[0.         0.11914122 0.19040419 0.24322145 0.29281322 0.33323254
+ 0.36790646 0.40177401 0.43221449 0.45670799]
+avg NDCG
+[0.         0.11914122 0.16410315 0.19051178 0.21186979 0.22750612
+ 0.23985722 0.2511464  0.2607493  0.26812258]
+hyper-parameter configurations:
+vector size:  64 hidden layers:  [256, 128, 64] learning rate:  0.0001 Drop out prob:  0.5
+mean_absolute_error:  0.775
+mean_squared_error:  0.951
+root_mean_squared_error:  0.975
+r2 score:  0.233
+avg HR
+[0.         0.11440379 0.18566677 0.23838323 0.28293519 0.32274972
+ 0.35943957 0.39491987 0.4266707  0.45428888]
+avg NDCG
+[0.         0.11440379 0.15936572 0.18572395 0.20491144 0.2203138
+ 0.23338299 0.24520976 0.25522603 0.26353993]
+hyper-parameter configurations:
+vector size:  64 hidden layers:  [256, 128, 64] learning rate:  0.001 Drop out prob:  0.0
+mean_absolute_error:  0.700
+mean_squared_error:  0.792
+root_mean_squared_error:  0.890
+r2 score:  0.361
+avg HR
+[0.         0.07690757 0.12811209 0.16238282 0.19433525 0.22417095
+ 0.24876525 0.27386352 0.29442597 0.31216611]
+avg NDCG
+[0.         0.07690757 0.10921402 0.12634939 0.14011055 0.15165258
+ 0.16041324 0.16877933 0.17526606 0.18060638]
+hyper-parameter configurations:
+vector size:  64 hidden layers:  [256, 128, 64] learning rate:  0.001 Drop out prob:  0.1
+mean_absolute_error:  0.700
+mean_squared_error:  0.802
+root_mean_squared_error:  0.895
+r2 score:  0.353
+avg HR
+[0.         0.08668481 0.14151799 0.1792158  0.21429291 0.24372543
+ 0.27013406 0.29190606 0.31478682 0.33605483]
+avg NDCG
+[0.         0.08668481 0.1212807  0.1401296  0.15523649 0.16662254
+ 0.17602949 0.18328682 0.19050489 0.19690721]
+hyper-parameter configurations:
+vector size:  64 hidden layers:  [256, 128, 64] learning rate:  0.001 Drop out prob:  0.25
+mean_absolute_error:  0.712
+mean_squared_error:  0.803
+root_mean_squared_error:  0.896
+r2 score:  0.353
+avg HR
+[0.         0.07499244 0.11974599 0.1576454  0.19040419 0.21721601
+ 0.24281826 0.26398549 0.28555589 0.30349763]
+avg NDCG
+[0.         0.07499244 0.10322879 0.12217849 0.13628694 0.14665916
+ 0.15577887 0.16283461 0.16963932 0.17504032]
+hyper-parameter configurations:
+vector size:  64 hidden layers:  [256, 128, 64] learning rate:  0.001 Drop out prob:  0.5
+mean_absolute_error:  0.709
+mean_squared_error:  0.812
+root_mean_squared_error:  0.901
+r2 score:  0.345
+avg HR
+[0.         0.07307731 0.11631892 0.1548231  0.18617075 0.21439371
+ 0.23757686 0.26317912 0.28233041 0.30128011]
+avg NDCG
+[0.         0.07307731 0.10035973 0.11961182 0.13311252 0.14403065
+ 0.15228865 0.16082274 0.1668643  0.17256873]
+hyper-parameter configurations:
+vector size:  64 hidden layers:  [256, 128, 64] learning rate:  0.01 Drop out prob:  0.0
+mean_absolute_error:  0.852
+mean_squared_error:  1.210
+root_mean_squared_error:  1.100
+r2 score:  0.024
+avg HR
+[0.         0.05110372 0.0815442  0.10976716 0.13607499 0.15966132
+ 0.18183651 0.20018143 0.21792158 0.23455297]
+avg NDCG
+[0.         0.05110372 0.07030952 0.084421   0.09575117 0.10487561
+ 0.11277457 0.11888954 0.12448594 0.12949248]
+hyper-parameter configurations:
+vector size:  64 hidden layers:  [256, 128, 64] learning rate:  0.01 Drop out prob:  0.1
+mean_absolute_error:  0.767
+mean_squared_error:  0.954
+root_mean_squared_error:  0.977
+r2 score:  0.231
+avg HR
+[0.         0.07015422 0.11339583 0.14585223 0.17024493 0.19806471
+ 0.21963512 0.2391896  0.2582401  0.27870174]
+avg NDCG
+[0.         0.07015422 0.09743664 0.11366484 0.1241702  0.13493236
+ 0.1426159  0.14913406 0.15514382 0.16130339]
+hyper-parameter configurations:
+vector size:  64 hidden layers:  [256, 128, 64] learning rate:  0.01 Drop out prob:  0.25
+mean_absolute_error:  0.729
+mean_squared_error:  0.875
+root_mean_squared_error:  0.935
+r2 score:  0.294
+avg HR
+[0.         0.07781474 0.12680173 0.16500353 0.19877029 0.22638847
+ 0.25229312 0.27426671 0.29382119 0.31277089]
+avg NDCG
+[0.         0.07781474 0.10872209 0.12782299 0.14236554 0.15304971
+ 0.16227713 0.16960166 0.17577041 0.18147484]
+hyper-parameter configurations:
+vector size:  64 hidden layers:  [256, 128, 64] learning rate:  0.01 Drop out prob:  0.5
+mean_absolute_error:  0.735
+mean_squared_error:  0.893
+root_mean_squared_error:  0.945
+r2 score:  0.280
+avg HR
+[0.         0.05110372 0.08749118 0.11904042 0.14514666 0.17377281
+ 0.19977825 0.22447334 0.24816047 0.2717468 ]
+avg NDCG
+[0.         0.05110372 0.07406165 0.08983627 0.10107962 0.11215372
+ 0.12141705 0.12964874 0.1371212  0.14422139]
+hyper-parameter configurations:
+vector size:  64 hidden layers:  [128, 64, 32] learning rate:  0.0001 Drop out prob:  0.0
+mean_absolute_error:  0.973
+mean_squared_error:  1.529
+root_mean_squared_error:  1.237
+r2 score: -0.233
+avg HR
+[0.         0.12629775 0.20028223 0.25461143 0.3070255  0.34815039
+ 0.38504183 0.42042133 0.45176897 0.48130229]
+avg NDCG
+[0.         0.12629775 0.17297676 0.20014136 0.22271487 0.23862415
+ 0.25176515 0.26355831 0.27344739 0.28233781]
+hyper-parameter configurations:
+vector size:  64 hidden layers:  [128, 64, 32] learning rate:  0.0001 Drop out prob:  0.1
+mean_absolute_error:  0.975
+mean_squared_error:  1.514
+root_mean_squared_error:  1.230
+r2 score: -0.221
+avg HR
+[0.         0.12942244 0.20501966 0.26277593 0.31035178 0.35097268
+ 0.38887209 0.42344522 0.4536841  0.48210866]
+avg NDCG
+[0.         0.12942244 0.17711897 0.20599711 0.22648691 0.24220122
+ 0.25570126 0.26722564 0.27676495 0.28532159]
+hyper-parameter configurations:
+vector size:  64 hidden layers:  [128, 64, 32] learning rate:  0.0001 Drop out prob:  0.25
+mean_absolute_error:  0.999
+mean_squared_error:  1.602
+root_mean_squared_error:  1.266
+r2 score: -0.292
+avg HR
+[0.         0.1276081  0.20028223 0.25451063 0.30662232 0.34684004
+ 0.38494103 0.41679266 0.44934986 0.47908477]
+avg NDCG
+[0.         0.1276081  0.17346037 0.20057457 0.22301785 0.23857619
+ 0.25214804 0.26276525 0.2730359  0.281987  ]
+hyper-parameter configurations:
+vector size:  64 hidden layers:  [128, 64, 32] learning rate:  0.0001 Drop out prob:  0.5
+mean_absolute_error:  1.017
+mean_squared_error:  1.640
+root_mean_squared_error:  1.281
+r2 score: -0.323
+avg HR
+[0.         0.1276081  0.20179417 0.25743373 0.30853745 0.34915835
+ 0.38645298 0.41790142 0.44743473 0.47757283]
+avg NDCG
+[0.         0.1276081  0.1744143  0.20223408 0.22424325 0.23995756
+ 0.25324218 0.26372499 0.27304172 0.28211419]
+hyper-parameter configurations:
+vector size:  64 hidden layers:  [128, 64, 32] learning rate:  0.001 Drop out prob:  0.0
+mean_absolute_error:  0.734
+mean_squared_error:  0.839
+root_mean_squared_error:  0.916
+r2 score:  0.323
+avg HR
+[0.         0.05785707 0.09343816 0.1248866  0.15169842 0.17578873
+ 0.19695595 0.2174176  0.23848402 0.25713134]
+avg NDCG
+[0.         0.05785707 0.08030624 0.09603046 0.10757768 0.11689709
+ 0.124437   0.13125755 0.13790327 0.14351667]
+hyper-parameter configurations:
+vector size:  64 hidden layers:  [128, 64, 32] learning rate:  0.001 Drop out prob:  0.1
+mean_absolute_error:  0.727
+mean_squared_error:  0.833
+root_mean_squared_error:  0.913
+r2 score:  0.328
+avg HR
+[0.         0.07852031 0.1305312  0.17095051 0.20673319 0.23989517
+ 0.26751336 0.29230924 0.31660115 0.33857474]
+avg NDCG
+[0.         0.07852031 0.11133553 0.13154518 0.14695595 0.15978475
+ 0.16962255 0.17788784 0.18555108 0.19216579]
+hyper-parameter configurations:
+vector size:  64 hidden layers:  [128, 64, 32] learning rate:  0.001 Drop out prob:  0.25
+mean_absolute_error:  0.730
+mean_squared_error:  0.838
+root_mean_squared_error:  0.915
+r2 score:  0.324
+avg HR
+[0.         0.0734805  0.12156033 0.16208044 0.19504082 0.22538051
+ 0.2527971  0.27638343 0.29785304 0.31650035]
+avg NDCG
+[0.         0.0734805  0.10381549 0.12407555 0.13827081 0.1500078
+ 0.15977379 0.1676359  0.17440881 0.18002221]
+hyper-parameter configurations:
+vector size:  64 hidden layers:  [128, 64, 32] learning rate:  0.001 Drop out prob:  0.5
+mean_absolute_error:  0.734
+mean_squared_error:  0.883
+root_mean_squared_error:  0.940
+r2 score:  0.288
+avg HR
+[0.         0.07388368 0.12297147 0.16671706 0.20441488 0.23414978
+ 0.26247354 0.29009172 0.31428283 0.33635722]
+avg NDCG
+[0.         0.07388368 0.10485463 0.12672743 0.14296299 0.15446602
+ 0.16455515 0.17376121 0.18139265 0.18803771]
+hyper-parameter configurations:
+vector size:  64 hidden layers:  [128, 64, 32] learning rate:  0.01 Drop out prob:  0.0
+mean_absolute_error:  0.712
+mean_squared_error:  0.810
+root_mean_squared_error:  0.900
+r2 score:  0.347
+avg HR
+[0.         0.07640359 0.12539059 0.15956053 0.1929241  0.22124786
+ 0.24674932 0.27194839 0.29593791 0.31770991]
+avg NDCG
+[0.         0.07640359 0.10731094 0.12439591 0.13876482 0.14972195
+ 0.15880575 0.16720544 0.17477329 0.18132732]
+hyper-parameter configurations:
+vector size:  64 hidden layers:  [128, 64, 32] learning rate:  0.01 Drop out prob:  0.1
+mean_absolute_error:  0.727
+mean_squared_error:  0.847
+root_mean_squared_error:  0.920
+r2 score:  0.317
+avg HR
+[0.         0.07176696 0.11591573 0.14978329 0.17760306 0.20179417
+ 0.22608608 0.24876525 0.2689245  0.28636226]
+avg NDCG
+[0.         0.07176696 0.09962173 0.11655551 0.12853684 0.13789524
+ 0.14654819 0.15410791 0.16046745 0.16571674]
+hyper-parameter configurations:
+vector size:  64 hidden layers:  [128, 64, 32] learning rate:  0.01 Drop out prob:  0.25
+mean_absolute_error:  0.742
+mean_squared_error:  0.863
+root_mean_squared_error:  0.929
+r2 score:  0.304
+avg HR
+[0.         0.06098176 0.10573531 0.14051003 0.17528475 0.20310453
+ 0.22598528 0.25057958 0.2745691  0.29462756]
+avg NDCG
+[0.         0.06098176 0.0892181  0.10660546 0.12158212 0.13234428
+ 0.14049457 0.14869267 0.15626052 0.16229872]
+hyper-parameter configurations:
+vector size:  64 hidden layers:  [128, 64, 32] learning rate:  0.01 Drop out prob:  0.5
+mean_absolute_error:  0.757
+mean_squared_error:  0.887
+root_mean_squared_error:  0.942
+r2 score:  0.284
+avg HR
+[0.         0.07418607 0.12196351 0.16369318 0.19887108 0.22679165
+ 0.25289789 0.27789537 0.29996976 0.32133857]
+avg NDCG
+[0.         0.07418607 0.10433028 0.12519511 0.14034541 0.15114656
+ 0.16044579 0.16877829 0.17574198 0.18217463]
+hyper-parameter configurations:
+vector size:  64 hidden layers:  [64, 32, 16] learning rate:  0.0001 Drop out prob:  0.0
+mean_absolute_error:  1.894
+mean_squared_error:  5.382
+root_mean_squared_error:  2.320
+r2 score: -3.340
+avg HR
+[0.         0.11248866 0.17730068 0.22759802 0.27043645 0.30934382
+ 0.34180022 0.37274468 0.40036287 0.42878742]
+avg NDCG
+[0.         0.11248866 0.15338049 0.17852916 0.19697867 0.21203009
+ 0.2235913  0.23390612 0.24261869 0.25117533]
+hyper-parameter configurations:
+vector size:  64 hidden layers:  [64, 32, 16] learning rate:  0.0001 Drop out prob:  0.1
+mean_absolute_error:  2.144
+mean_squared_error:  6.383
+root_mean_squared_error:  2.526
+r2 score: -4.147
+avg HR
+[0.         0.10533212 0.16460034 0.20985788 0.24695091 0.28364076
+ 0.31377885 0.34028828 0.36710009 0.39280314]
+avg NDCG
+[0.         0.10533212 0.14272621 0.16535497 0.18133007 0.19552365
+ 0.20625905 0.21509553 0.22355371 0.2312911 ]
+hyper-parameter configurations:
+vector size:  64 hidden layers:  [64, 32, 16] learning rate:  0.0001 Drop out prob:  0.25
+mean_absolute_error:  1.894
+mean_squared_error:  5.431
+root_mean_squared_error:  2.330
+r2 score: -3.380
+avg HR
+[0.         0.11067433 0.17639351 0.22628767 0.2664046  0.30531196
+ 0.3368612  0.36458018 0.39239996 0.41528072]
+avg NDCG
+[0.         0.11067433 0.15213851 0.1770856  0.19436301 0.20941444
+ 0.22065251 0.22989217 0.23866833 0.24555612]
+hyper-parameter configurations:
+vector size:  64 hidden layers:  [64, 32, 16] learning rate:  0.0001 Drop out prob:  0.5
+mean_absolute_error:  1.805
+mean_squared_error:  5.008
+root_mean_squared_error:  2.238
+r2 score: -3.039
+avg HR
+[0.         0.11712529 0.18133253 0.23465376 0.27950811 0.31660115
+ 0.35167826 0.38161476 0.40963613 0.43322246]
+avg NDCG
+[0.         0.11712529 0.15763555 0.18429617 0.20361388 0.21796343
+ 0.23045814 0.24043698 0.24927674 0.25637693]
+hyper-parameter configurations:
+vector size:  64 hidden layers:  [64, 32, 16] learning rate:  0.001 Drop out prob:  0.0
+mean_absolute_error:  0.718
+mean_squared_error:  0.821
+root_mean_squared_error:  0.906
+r2 score:  0.338
+avg HR
+[0.         0.05493398 0.09867957 0.13405907 0.16560831 0.19383127
+ 0.21953432 0.24281826 0.26579982 0.2852535 ]
+avg NDCG
+[0.         0.05493398 0.08253437 0.10022412 0.11381164 0.12472977
+ 0.13388538 0.1416467  0.14889657 0.15475271]
+hyper-parameter configurations:
+vector size:  64 hidden layers:  [64, 32, 16] learning rate:  0.001 Drop out prob:  0.1
+mean_absolute_error:  0.724
+mean_squared_error:  0.835
+root_mean_squared_error:  0.914
+r2 score:  0.326
+avg HR
+[0.         0.07196855 0.1221651  0.16248362 0.19766153 0.22810201
+ 0.25854249 0.28485032 0.31317408 0.33403891]
+avg NDCG
+[0.         0.07196855 0.10363905 0.12379831 0.13894861 0.15072459
+ 0.16156771 0.17033699 0.17927214 0.18555308]
+hyper-parameter configurations:
+vector size:  64 hidden layers:  [64, 32, 16] learning rate:  0.001 Drop out prob:  0.25
+mean_absolute_error:  0.733
+mean_squared_error:  0.839
+root_mean_squared_error:  0.916
+r2 score:  0.323
+avg HR
+[0.         0.06027618 0.10684407 0.14313073 0.17750227 0.2064308
+ 0.2337466  0.25642576 0.27960891 0.30057454]
+avg NDCG
+[0.         0.06027618 0.08965725 0.10780058 0.12260359 0.13379468
+ 0.14352476 0.15108448 0.15839795 0.16470923]
+hyper-parameter configurations:
+vector size:  64 hidden layers:  [64, 32, 16] learning rate:  0.001 Drop out prob:  0.5
+mean_absolute_error:  0.730
+mean_squared_error:  0.837
+root_mean_squared_error:  0.915
+r2 score:  0.325
+avg HR
+[0.         0.06581998 0.11510936 0.14857373 0.18123173 0.21378893
+ 0.24332225 0.26680778 0.2907973  0.31307328]
+avg NDCG
+[0.         0.06581998 0.09691812 0.1136503  0.12771534 0.14031018
+ 0.15083016 0.15865867 0.16622652 0.17293226]
+hyper-parameter configurations:
+vector size:  64 hidden layers:  [64, 32, 16] learning rate:  0.01 Drop out prob:  0.0
+mean_absolute_error:  0.712
+mean_squared_error:  0.807
+root_mean_squared_error:  0.898
+r2 score:  0.349
+avg HR
+[0.         0.06017539 0.10250983 0.13557101 0.16520512 0.1903034
+ 0.21358734 0.23576252 0.25783691 0.27537547]
+avg NDCG
+[0.         0.06017539 0.08688544 0.10341604 0.11617875 0.12588809
+ 0.134182   0.14157373 0.14853742 0.15381705]
+hyper-parameter configurations:
+vector size:  64 hidden layers:  [64, 32, 16] learning rate:  0.01 Drop out prob:  0.1
+mean_absolute_error:  0.718
+mean_squared_error:  0.809
+root_mean_squared_error:  0.899
+r2 score:  0.348
+avg HR
+[0.         0.06440883 0.10744885 0.14292914 0.17266405 0.19997984
+ 0.22729564 0.25138595 0.27255317 0.29311561]
+avg NDCG
+[0.         0.06440883 0.09156406 0.1093042  0.12211033 0.13267752
+ 0.1424076  0.15043771 0.15711522 0.16330514]
+hyper-parameter configurations:
+vector size:  64 hidden layers:  [64, 32, 16] learning rate:  0.01 Drop out prob:  0.25
+mean_absolute_error:  0.702
+mean_squared_error:  0.789
+root_mean_squared_error:  0.888
+r2 score:  0.364
+avg HR
+[0.         0.07166616 0.12166112 0.1603669  0.19121056 0.21892954
+ 0.2445318  0.26973087 0.29140208 0.31387965]
+avg NDCG
+[0.         0.07166616 0.10320947 0.12256236 0.135846   0.14656917
+ 0.15568888 0.16408857 0.17092507 0.17769149]
+hyper-parameter configurations:
+vector size:  64 hidden layers:  [64, 32, 16] learning rate:  0.01 Drop out prob:  0.5
+mean_absolute_error:  0.714
+mean_squared_error:  0.808
+root_mean_squared_error:  0.899
+r2 score:  0.348
+avg HR
+[0.         0.04545913 0.08013305 0.11329503 0.14040923 0.16964016
+ 0.19786312 0.22044149 0.24342304 0.26297752]
+avg NDCG
+[0.         0.04545913 0.06733594 0.08391693 0.09559438 0.10690244
+ 0.11695567 0.12448179 0.13173166 0.13761815]
+hyper-parameter configurations:
+vector size:  128 hidden layers:  [512, 256, 128] learning rate:  0.0001 Drop out prob:  0.0
+mean_absolute_error:  0.760
+mean_squared_error:  0.904
+root_mean_squared_error:  0.951
+r2 score:  0.271
+avg HR
+[0.         0.1112791  0.18062695 0.23445217 0.28112085 0.31891946
+ 0.35268622 0.3830259  0.41114807 0.43765749]
+avg NDCG
+[0.         0.1112791  0.15503273 0.18194534 0.20204444 0.21666694
+ 0.2286949  0.23880813 0.24767969 0.25565982]
+hyper-parameter configurations:
+vector size:  128 hidden layers:  [512, 256, 128] learning rate:  0.0001 Drop out prob:  0.1
+mean_absolute_error:  0.759
+mean_squared_error:  0.905
+root_mean_squared_error:  0.951
+r2 score:  0.270
+avg HR
+[0.         0.1114807  0.18355005 0.23445217 0.28021369 0.31750832
+ 0.34825118 0.37838928 0.40711622 0.43221449]
+avg NDCG
+[0.         0.1114807  0.15695139 0.18240246 0.20211087 0.2165384
+ 0.22748923 0.23753526 0.2465976  0.25415294]
+hyper-parameter configurations:
+vector size:  128 hidden layers:  [512, 256, 128] learning rate:  0.0001 Drop out prob:  0.25
+mean_absolute_error:  0.746
+mean_squared_error:  0.884
+root_mean_squared_error:  0.940
+r2 score:  0.287
+avg HR
+[0.         0.10422336 0.1685314  0.21842556 0.26176797 0.29986896
+ 0.33282935 0.36316904 0.38705776 0.41094648]
+avg NDCG
+[0.         0.10422336 0.14479722 0.1697443  0.18841086 0.20315033
+ 0.21489106 0.22500429 0.23254034 0.23973156]
+hyper-parameter configurations:
+vector size:  128 hidden layers:  [512, 256, 128] learning rate:  0.0001 Drop out prob:  0.5
+mean_absolute_error:  0.736
+mean_squared_error:  0.875
+root_mean_squared_error:  0.935
+r2 score:  0.294
+avg HR
+[0.         0.09797399 0.15976212 0.21177301 0.2525955  0.28515271
+ 0.31650035 0.34381615 0.36891442 0.39058563]
+avg NDCG
+[0.         0.09797399 0.13695796 0.1629634  0.1805447  0.19313954
+ 0.2043058  0.21341106 0.22132869 0.22785237]
+hyper-parameter configurations:
+vector size:  128 hidden layers:  [512, 256, 128] learning rate:  0.001 Drop out prob:  0.0
+mean_absolute_error:  0.701
+mean_squared_error:  0.800
+root_mean_squared_error:  0.894
+r2 score:  0.355
+avg HR
+[0.         0.09031348 0.14434029 0.18536438 0.22104627 0.25188993
+ 0.27970971 0.30642072 0.33101502 0.35208144]
+avg NDCG
+[0.         0.09031348 0.1244006  0.14491264 0.16028    0.17221196
+ 0.18212156 0.19102523 0.19878387 0.20512549]
+hyper-parameter configurations:
+vector size:  128 hidden layers:  [512, 256, 128] learning rate:  0.001 Drop out prob:  0.1
+mean_absolute_error:  0.695
+mean_squared_error:  0.787
+root_mean_squared_error:  0.887
+r2 score:  0.365
+avg HR
+[0.         0.08063703 0.13073279 0.16752344 0.20290293 0.23223465
+ 0.25844169 0.28353997 0.30500958 0.32657998]
+avg NDCG
+[0.         0.08063703 0.11224394 0.13063926 0.14587638 0.15722344
+ 0.16655857 0.17492466 0.18169757 0.18819091]
+hyper-parameter configurations:
+vector size:  128 hidden layers:  [512, 256, 128] learning rate:  0.001 Drop out prob:  0.25
+mean_absolute_error:  0.708
+mean_squared_error:  0.825
+root_mean_squared_error:  0.908
+r2 score:  0.335
+avg HR
+[0.         0.09051507 0.14182038 0.18314686 0.21802238 0.24785808
+ 0.27870174 0.30500958 0.32829352 0.34905755]
+avg NDCG
+[0.         0.09051507 0.12288512 0.14354836 0.15856842 0.17011045
+ 0.18109718 0.18986646 0.19721173 0.20346233]
+hyper-parameter configurations:
+vector size:  128 hidden layers:  [512, 256, 128] learning rate:  0.001 Drop out prob:  0.5
+mean_absolute_error:  0.711
+mean_squared_error:  0.805
+root_mean_squared_error:  0.897
+r2 score:  0.350
+avg HR
+[0.         0.06743272 0.10825522 0.14111481 0.17488156 0.20008064
+ 0.22588449 0.24957162 0.27083963 0.29160367]
+avg NDCG
+[0.         0.06743272 0.09318885 0.10961864 0.12416119 0.13390953
+ 0.14310104 0.15099675 0.15770606 0.16395666]
+hyper-parameter configurations:
+vector size:  128 hidden layers:  [512, 256, 128] learning rate:  0.01 Drop out prob:  0.0
+mean_absolute_error:  0.879
+mean_squared_error:  1.538
+root_mean_squared_error:  1.240
+r2 score: -0.241
+avg HR
+[0.         0.08124181 0.13254712 0.17236166 0.21016027 0.24120552
+ 0.27063804 0.29523234 0.32022982 0.34038907]
+avg NDCG
+[0.         0.08124181 0.11361186 0.13351913 0.1497981  0.16180805
+ 0.17229212 0.18049022 0.18837604 0.19444459]
+hyper-parameter configurations:
+vector size:  128 hidden layers:  [512, 256, 128] learning rate:  0.01 Drop out prob:  0.1
+mean_absolute_error:  0.965
+mean_squared_error:  1.834
+root_mean_squared_error:  1.354
+r2 score: -0.479
+avg HR
+[0.         0.10019151 0.16097168 0.20622921 0.24362463 0.27315795
+ 0.29986896 0.32547122 0.35016631 0.37465981]
+avg NDCG
+[0.         0.10019151 0.13853953 0.16116829 0.17727363 0.18869867
+ 0.19821333 0.20674741 0.21453785 0.22191113]
+hyper-parameter configurations:
+vector size:  128 hidden layers:  [512, 256, 128] learning rate:  0.01 Drop out prob:  0.25
+mean_absolute_error:  0.894
+mean_squared_error:  1.644
+root_mean_squared_error:  1.282
+r2 score: -0.326
+avg HR
+[0.         0.09293418 0.16722105 0.22034069 0.26771495 0.31085576
+ 0.34915835 0.38453785 0.41618788 0.44481403]
+avg NDCG
+[0.         0.09293418 0.13980397 0.1663638  0.18676678 0.20345592
+ 0.21709958 0.22889275 0.23887722 0.24749455]
+hyper-parameter configurations:
+vector size:  128 hidden layers:  [512, 256, 128] learning rate:  0.01 Drop out prob:  0.5
+mean_absolute_error:  0.972
+mean_squared_error:  1.805
+root_mean_squared_error:  1.343
+r2 score: -0.456
+avg HR
+[0.         0.07771394 0.14202197 0.19705675 0.24523738 0.28243121
+ 0.31619796 0.34432013 0.37314787 0.39612942]
+avg NDCG
+[0.         0.07771394 0.11828779 0.14580518 0.16655545 0.18094398
+ 0.19297195 0.202346   0.21144014 0.21835828]
+hyper-parameter configurations:
+vector size:  128 hidden layers:  [256, 128, 64] learning rate:  0.0001 Drop out prob:  0.0
+mean_absolute_error:  0.782
+mean_squared_error:  0.952
+root_mean_squared_error:  0.976
+r2 score:  0.232
+avg HR
+[0.         0.11742768 0.19191614 0.24745489 0.29160367 0.33293015
+ 0.36962    0.40076605 0.42818264 0.45580083]
+avg NDCG
+[0.         0.11742768 0.16442466 0.19219404 0.21120788 0.22719515
+ 0.24026434 0.25064635 0.25929533 0.26760923]
+hyper-parameter configurations:
+vector size:  128 hidden layers:  [256, 128, 64] learning rate:  0.0001 Drop out prob:  0.1
+mean_absolute_error:  0.779
+mean_squared_error:  0.947
+root_mean_squared_error:  0.973
+r2 score:  0.236
+avg HR
+[0.         0.11027114 0.18052616 0.23233545 0.28051608 0.32234654
+ 0.35792763 0.391392   0.41981655 0.4457212 ]
+avg NDCG
+[0.         0.11027114 0.15459712 0.18050177 0.20125203 0.21743427
+ 0.23010851 0.2412633  0.25023024 0.25802832]
+hyper-parameter configurations:
+vector size:  128 hidden layers:  [256, 128, 64] learning rate:  0.0001 Drop out prob:  0.25
+mean_absolute_error:  0.774
+mean_squared_error:  0.943
+root_mean_squared_error:  0.971
+r2 score:  0.239
+avg HR
+[0.         0.11521016 0.18778349 0.24362463 0.28978934 0.32909989
+ 0.3667977  0.40046366 0.42868662 0.45489366]
+avg NDCG
+[0.         0.11521016 0.16099883 0.18891941 0.20880146 0.22400886
+ 0.23743709 0.24865908 0.25756243 0.26545153]
+hyper-parameter configurations:
+vector size:  128 hidden layers:  [256, 128, 64] learning rate:  0.0001 Drop out prob:  0.5
+mean_absolute_error:  0.769
+mean_squared_error:  0.937
+root_mean_squared_error:  0.968
+r2 score:  0.244
+avg HR
+[0.         0.11037194 0.18002218 0.23656889 0.28202802 0.32123778
+ 0.3559117  0.38725935 0.41699425 0.44602359]
+avg NDCG
+[0.         0.11037194 0.15431635 0.1825897  0.20216789 0.21733629
+ 0.22968739 0.24013661 0.24951692 0.25825562]
+hyper-parameter configurations:
+vector size:  128 hidden layers:  [256, 128, 64] learning rate:  0.001 Drop out prob:  0.0
+mean_absolute_error:  0.713
+mean_squared_error:  0.802
+root_mean_squared_error:  0.896
+r2 score:  0.353
+avg HR
+[0.         0.07015422 0.12004838 0.15633505 0.19110977 0.2228606
+ 0.2500756  0.27335954 0.29382119 0.31488761]
+avg NDCG
+[0.         0.07015422 0.10163393 0.11977726 0.13475392 0.14703682
+ 0.156731   0.16449231 0.17094724 0.17728887]
+hyper-parameter configurations:
+vector size:  128 hidden layers:  [256, 128, 64] learning rate:  0.001 Drop out prob:  0.1
+mean_absolute_error:  0.702
+mean_squared_error:  0.790
+root_mean_squared_error:  0.889
+r2 score:  0.363
+avg HR
+[0.         0.06541679 0.10855761 0.14554984 0.17175688 0.19786312
+ 0.22326378 0.24533817 0.26660619 0.28424554]
+avg NDCG
+[0.         0.06541679 0.09263561 0.11113173 0.12241849 0.13251776
+ 0.14156566 0.14892379 0.1556331  0.16094308]
+hyper-parameter configurations:
+vector size:  128 hidden layers:  [256, 128, 64] learning rate:  0.001 Drop out prob:  0.25
+mean_absolute_error:  0.706
+mean_squared_error:  0.793
+root_mean_squared_error:  0.890
+r2 score:  0.361
+avg HR
+[0.         0.065316   0.11087592 0.14726338 0.17730068 0.2039109
+ 0.22951315 0.25078117 0.27214998 0.2935188 ]
+avg NDCG
+[0.         0.065316   0.09406111 0.11225484 0.1251912  0.13548544
+ 0.14460514 0.15169448 0.15843559 0.16486825]
+hyper-parameter configurations:
+vector size:  128 hidden layers:  [256, 128, 64] learning rate:  0.001 Drop out prob:  0.5
+mean_absolute_error:  0.702
+mean_squared_error:  0.807
+root_mean_squared_error:  0.898
+r2 score:  0.350
+avg HR
+[0.         0.07650438 0.12821288 0.17014414 0.20320532 0.23173067
+ 0.25451063 0.27900413 0.298861   0.31871787]
+avg NDCG
+[0.         0.07650438 0.10912881 0.13009444 0.14433312 0.15536823
+ 0.16348262 0.17164712 0.17791126 0.18388877]
+hyper-parameter configurations:
+vector size:  128 hidden layers:  [256, 128, 64] learning rate:  0.01 Drop out prob:  0.0
+mean_absolute_error:  0.726
+mean_squared_error:  0.859
+root_mean_squared_error:  0.927
+r2 score:  0.307
+avg HR
+[0.         0.06420724 0.10815442 0.14746497 0.17437758 0.20199577
+ 0.22870678 0.25199073 0.27497228 0.29170447]
+avg NDCG
+[0.         0.06420724 0.09193482 0.1115901  0.12318073 0.1338649
+ 0.14337956 0.15114087 0.15839074 0.16342763]
+hyper-parameter configurations:
+vector size:  128 hidden layers:  [256, 128, 64] learning rate:  0.01 Drop out prob:  0.1
+mean_absolute_error:  389.272
+mean_squared_error:  2641178.478
+root_mean_squared_error:  1625.170
+r2 score: -2130041.555
+avg HR
+[0.         0.03205322 0.05795787 0.07922588 0.09998992 0.1195444
+ 0.13627659 0.15119444 0.16641468 0.1794174 ]
+avg NDCG
+[0.         0.03205322 0.04839723 0.05903124 0.06797382 0.07553853
+ 0.08149865 0.08647127 0.09127272 0.09518693]
+hyper-parameter configurations:
+vector size:  128 hidden layers:  [256, 128, 64] learning rate:  0.01 Drop out prob:  0.25
+mean_absolute_error:  0.746
+mean_squared_error:  0.872
+root_mean_squared_error:  0.934
+r2 score:  0.297
+avg HR
+[0.         0.04465276 0.07983066 0.11017035 0.13637738 0.16097168
+ 0.1848604  0.20764036 0.22598528 0.24604375]
+avg NDCG
+[0.         0.04465276 0.06684754 0.08201739 0.09330414 0.10281851
+ 0.11132785 0.11892117 0.12470835 0.13074655]
+hyper-parameter configurations:
+vector size:  128 hidden layers:  [256, 128, 64] learning rate:  0.01 Drop out prob:  0.5
+mean_absolute_error:  0.790
+mean_squared_error:  0.993
+root_mean_squared_error:  0.996
+r2 score:  0.199
+avg HR
+[0.         0.08456809 0.1331519  0.17074892 0.20300373 0.23294023
+ 0.26065921 0.28737022 0.30934382 0.3287975 ]
+avg NDCG
+[0.         0.08456809 0.11522106 0.13401957 0.14791096 0.15949198
+ 0.16936568 0.17826935 0.18520125 0.19105739]
+hyper-parameter configurations:
+vector size:  128 hidden layers:  [128, 64, 32] learning rate:  0.0001 Drop out prob:  0.0
+mean_absolute_error:  0.931
+mean_squared_error:  1.399
+root_mean_squared_error:  1.183
+r2 score: -0.128
+avg HR
+[0.         0.12660014 0.20582603 0.2580385  0.30672311 0.34623526
+ 0.38443705 0.41870779 0.4484427  0.4782784 ]
+avg NDCG
+[0.         0.12660014 0.17658611 0.20269235 0.22365967 0.23894505
+ 0.25255281 0.26397639 0.2733567  0.28233815]
+hyper-parameter configurations:
+vector size:  128 hidden layers:  [128, 64, 32] learning rate:  0.0001 Drop out prob:  0.1
+mean_absolute_error:  0.960
+mean_squared_error:  1.472
+root_mean_squared_error:  1.213
+r2 score: -0.187
+avg HR
+[0.         0.13123677 0.20612841 0.26176797 0.30843665 0.34946074
+ 0.38816652 0.42153009 0.45207136 0.48190707]
+avg NDCG
+[0.         0.13123677 0.17848814 0.20630791 0.22640702 0.24227731
+ 0.25606458 0.26718577 0.27682047 0.28580191]
+hyper-parameter configurations:
+vector size:  128 hidden layers:  [128, 64, 32] learning rate:  0.0001 Drop out prob:  0.25
+mean_absolute_error:  0.964
+mean_squared_error:  1.484
+root_mean_squared_error:  1.218
+r2 score: -0.197
+avg HR
+[0.         0.12246749 0.19806471 0.25380506 0.30037295 0.34472331
+ 0.38292511 0.41517992 0.44541881 0.47505292]
+avg NDCG
+[0.         0.12246749 0.17016403 0.1980342  0.2180899  0.23524696
+ 0.24885472 0.25960632 0.26914563 0.27806638]
+hyper-parameter configurations:
+vector size:  128 hidden layers:  [128, 64, 32] learning rate:  0.0001 Drop out prob:  0.5
+mean_absolute_error:  1.023
+mean_squared_error:  1.681
+root_mean_squared_error:  1.297
+r2 score: -0.356
+avg HR
+[0.         0.12014918 0.19242012 0.24785808 0.29634109 0.33474448
+ 0.37072876 0.40106844 0.42959379 0.45711118]
+avg NDCG
+[0.         0.12014918 0.16574707 0.19346605 0.21434654 0.229203
+ 0.24202086 0.25213409 0.26113283 0.26941639]
+hyper-parameter configurations:
+vector size:  128 hidden layers:  [128, 64, 32] learning rate:  0.001 Drop out prob:  0.0
+mean_absolute_error:  0.722
+mean_squared_error:  0.825
+root_mean_squared_error:  0.908
+r2 score:  0.335
+avg HR
+[0.         0.06430803 0.10583611 0.13919968 0.16822901 0.19342808
+ 0.22074388 0.24412862 0.2663038  0.28656385]
+avg NDCG
+[0.         0.06430803 0.09050933 0.10719112 0.11969337 0.1294417
+ 0.13917178 0.1469667  0.15396219 0.16006107]
+hyper-parameter configurations:
+vector size:  128 hidden layers:  [128, 64, 32] learning rate:  0.001 Drop out prob:  0.1
+mean_absolute_error:  0.715
+mean_squared_error:  0.814
+root_mean_squared_error:  0.902
+r2 score:  0.343
+avg HR
+[0.         0.06954944 0.11359742 0.14998488 0.18113093 0.21036186
+ 0.23576252 0.25864328 0.28031448 0.30077613]
+avg NDCG
+[0.         0.06954944 0.09734062 0.11553435 0.12894823 0.14025629
+ 0.14930419 0.15693111 0.16376761 0.16992718]
+hyper-parameter configurations:
+vector size:  128 hidden layers:  [128, 64, 32] learning rate:  0.001 Drop out prob:  0.25
+mean_absolute_error:  0.761
+mean_squared_error:  0.888
+root_mean_squared_error:  0.942
+r2 score:  0.284
+avg HR
+[0.         0.07398448 0.12156033 0.15885495 0.18869066 0.21570406
+ 0.23858482 0.2581393  0.27950811 0.29845782]
+avg NDCG
+[0.         0.07398448 0.1040015  0.12264881 0.13549835 0.14594856
+ 0.15409885 0.16061701 0.16735812 0.17306255]
+hyper-parameter configurations:
+vector size:  128 hidden layers:  [128, 64, 32] learning rate:  0.001 Drop out prob:  0.5
+mean_absolute_error:  0.723
+mean_squared_error:  0.854
+root_mean_squared_error:  0.924
+r2 score:  0.312
+avg HR
+[0.         0.08839835 0.14766657 0.19312569 0.22870678 0.26287673
+ 0.29331721 0.31811309 0.34341296 0.36639452]
+avg NDCG
+[0.         0.08839835 0.12579243 0.14852199 0.16384593 0.17706467
+ 0.18790779 0.19617309 0.20415431 0.21107244]
+hyper-parameter configurations:
+vector size:  128 hidden layers:  [128, 64, 32] learning rate:  0.01 Drop out prob:  0.0
+mean_absolute_error:  0.707
+mean_squared_error:  0.803
+root_mean_squared_error:  0.896
+r2 score:  0.353
+avg HR
+[0.         0.08829755 0.14040923 0.17689749 0.21036186 0.23959278
+ 0.26872291 0.29220845 0.31770991 0.33625643]
+avg NDCG
+[0.         0.08829755 0.12117636 0.13942049 0.15383281 0.16514087
+ 0.17551724 0.18334575 0.19139056 0.19697362]
+hyper-parameter configurations:
+vector size:  128 hidden layers:  [128, 64, 32] learning rate:  0.01 Drop out prob:  0.1
+mean_absolute_error:  0.731
+mean_squared_error:  0.846
+root_mean_squared_error:  0.920
+r2 score:  0.318
+avg HR
+[0.         0.07529483 0.12327386 0.16389477 0.19705675 0.22638847
+ 0.25390586 0.27739139 0.30077613 0.32093539]
+avg NDCG
+[0.         0.07529483 0.10556623 0.12587668 0.14015877 0.15150583
+ 0.16130772 0.16913623 0.17651329 0.18258184]
+hyper-parameter configurations:
+vector size:  128 hidden layers:  [128, 64, 32] learning rate:  0.01 Drop out prob:  0.25
+mean_absolute_error:  0.851
+mean_squared_error:  1.098
+root_mean_squared_error:  1.048
+r2 score:  0.114
+avg HR
+[0.         0.07499244 0.12468501 0.16288681 0.20018143 0.22800121
+ 0.25471223 0.28102006 0.30390082 0.32254813]
+avg NDCG
+[0.         0.07499244 0.10634496 0.12544586 0.14150778 0.15226994
+ 0.1617846  0.17055387 0.17777195 0.18338535]
+hyper-parameter configurations:
+vector size:  128 hidden layers:  [128, 64, 32] learning rate:  0.01 Drop out prob:  0.5
+mean_absolute_error:  0.719
+mean_squared_error:  0.832
+root_mean_squared_error:  0.912
+r2 score:  0.329
+avg HR
+[0.         0.08245137 0.13557101 0.17699829 0.21540167 0.24674932
+ 0.27275476 0.29755065 0.32033061 0.34321137]
+avg NDCG
+[0.         0.08245137 0.11596613 0.13667977 0.15321921 0.16534613
+ 0.17460946 0.18287475 0.19006103 0.19694883]
+hyper-parameter configurations:
+vector size:  128 hidden layers:  [64, 32, 16] learning rate:  0.0001 Drop out prob:  0.0
+mean_absolute_error:  1.850
+mean_squared_error:  5.197
+root_mean_squared_error:  2.280
+r2 score: -3.191
+avg HR
+[0.         0.11339583 0.1766959  0.23112589 0.27154521 0.30551356
+ 0.33827235 0.36941841 0.39723818 0.42052212]
+avg NDCG
+[0.         0.11339583 0.15333372 0.18054872 0.19795637 0.21109713
+ 0.22276604 0.23314806 0.24192422 0.24893339]
+hyper-parameter configurations:
+vector size:  128 hidden layers:  [64, 32, 16] learning rate:  0.0001 Drop out prob:  0.1
+mean_absolute_error:  1.735
+mean_squared_error:  4.734
+root_mean_squared_error:  2.176
+r2 score: -2.818
+avg HR
+[0.         0.11279105 0.18032456 0.22618688 0.27134361 0.30994859
+ 0.34442093 0.37375265 0.40056446 0.42697309]
+avg NDCG
+[0.         0.11279105 0.15539995 0.17833111 0.19777906 0.2127135
+ 0.22499279 0.23477003 0.24322822 0.25117801]
+hyper-parameter configurations:
+vector size:  128 hidden layers:  [64, 32, 16] learning rate:  0.0001 Drop out prob:  0.25
+mean_absolute_error:  1.765
+mean_squared_error:  4.820
+root_mean_squared_error:  2.195
+r2 score: -2.887
+avg HR
+[0.         0.11369822 0.17951819 0.23203306 0.27285556 0.30924302
+ 0.34371535 0.37597016 0.40086685 0.42818264]
+avg NDCG
+[0.         0.11369822 0.155226   0.18148343 0.19906472 0.21314132
+ 0.22542061 0.23617221 0.24402624 0.25224912]
+hyper-parameter configurations:
+vector size:  128 hidden layers:  [64, 32, 16] learning rate:  0.0001 Drop out prob:  0.5
+mean_absolute_error:  1.814
+mean_squared_error:  5.043
+root_mean_squared_error:  2.246
+r2 score: -3.067
+avg HR
+[0.         0.10664248 0.1738736  0.22598528 0.26731176 0.30763028
+ 0.34381615 0.37607096 0.40399153 0.42767866]
+avg NDCG
+[0.         0.10664248 0.14906059 0.17511643 0.19291478 0.20851211
+ 0.22140178 0.23215338 0.24096134 0.24809188]
+hyper-parameter configurations:
+vector size:  128 hidden layers:  [64, 32, 16] learning rate:  0.001 Drop out prob:  0.0
+mean_absolute_error:  0.719
+mean_squared_error:  0.822
+root_mean_squared_error:  0.907
+r2 score:  0.337
+avg HR
+[0.         0.05836105 0.09878036 0.13083359 0.1602661  0.1875819
+ 0.21308336 0.23959278 0.26277593 0.28414474]
+avg NDCG
+[0.         0.05836105 0.0838628  0.09988941 0.1125653  0.1231325
+ 0.1322163  0.14105278 0.14836624 0.1547989 ]
+hyper-parameter configurations:
+vector size:  128 hidden layers:  [64, 32, 16] learning rate:  0.001 Drop out prob:  0.1
+mean_absolute_error:  0.721
+mean_squared_error:  0.826
+root_mean_squared_error:  0.909
+r2 score:  0.334
+avg HR
+[0.         0.05654672 0.10039311 0.13799012 0.17357121 0.20411249
+ 0.23334341 0.26065921 0.28434634 0.30662232]
+avg NDCG
+[0.         0.05654672 0.08421071 0.10300922 0.11833316 0.13014814
+ 0.1405604  0.14966567 0.15713812 0.16384386]
+hyper-parameter configurations:
+vector size:  128 hidden layers:  [64, 32, 16] learning rate:  0.001 Drop out prob:  0.25
+mean_absolute_error:  0.728
+mean_squared_error:  0.829
+root_mean_squared_error:  0.910
+r2 score:  0.331
+avg HR
+[0.         0.04364479 0.0788227  0.10855761 0.13980446 0.16671706
+ 0.19181534 0.21620804 0.24120552 0.26297752]
+avg NDCG
+[0.         0.04364479 0.06583958 0.08070703 0.09416432 0.10457554
+ 0.11351572 0.12164663 0.12953245 0.13608648]
+hyper-parameter configurations:
+vector size:  128 hidden layers:  [64, 32, 16] learning rate:  0.001 Drop out prob:  0.5
+mean_absolute_error:  0.729
+mean_squared_error:  0.856
+root_mean_squared_error:  0.925
+r2 score:  0.309
+avg HR
+[0.         0.07952827 0.13516783 0.17407519 0.21489769 0.24503578
+ 0.27104123 0.29815543 0.32315291 0.34623526]
+avg NDCG
+[0.         0.07952827 0.11463292 0.13408661 0.1516679  0.1633269
+ 0.17259023 0.1816283  0.18951412 0.1964626 ]
+hyper-parameter configurations:
+vector size:  128 hidden layers:  [64, 32, 16] learning rate:  0.01 Drop out prob:  0.0
+mean_absolute_error:  0.716
+mean_squared_error:  0.837
+root_mean_squared_error:  0.915
+r2 score:  0.325
+avg HR
+[0.         0.07045661 0.11541175 0.15683903 0.18778349 0.21520008
+ 0.23989517 0.26479186 0.28626147 0.30662232]
+avg NDCG
+[0.         0.07045661 0.09882015 0.11953378 0.13286084 0.14346702
+ 0.15226359 0.16056249 0.16733539 0.17346462]
+hyper-parameter configurations:
+vector size:  128 hidden layers:  [64, 32, 16] learning rate:  0.01 Drop out prob:  0.1
+mean_absolute_error:  0.690
+mean_squared_error:  0.782
+root_mean_squared_error:  0.884
+r2 score:  0.370
+avg HR
+[0.         0.08739038 0.14040923 0.18022377 0.21570406 0.24402782
+ 0.26963008 0.29432517 0.31589558 0.33403891]
+avg NDCG
+[0.         0.08739038 0.12084155 0.14074882 0.15602935 0.16698648
+ 0.17610619 0.18433788 0.19114259 0.19660428]
+hyper-parameter configurations:
+vector size:  128 hidden layers:  [64, 32, 16] learning rate:  0.01 Drop out prob:  0.25
+mean_absolute_error:  0.709
+mean_squared_error:  0.801
+root_mean_squared_error:  0.895
+r2 score:  0.354
+avg HR
+[0.         0.05211168 0.08940631 0.12347546 0.15190001 0.18092934
+ 0.20401169 0.22608608 0.2473541  0.26600141]
+avg NDCG
+[0.         0.05211168 0.07564197 0.09267655 0.10491833 0.11614841
+ 0.12437051 0.13172864 0.13843795 0.14405135]
+hyper-parameter configurations:
+vector size:  128 hidden layers:  [64, 32, 16] learning rate:  0.01 Drop out prob:  0.5
+mean_absolute_error:  0.716
+mean_squared_error:  0.812
+root_mean_squared_error:  0.901
+r2 score:  0.345
+avg HR
+[0.         0.05815946 0.09898196 0.13365588 0.16399556 0.19161375
+ 0.21661123 0.23888721 0.26227195 0.27789537]
+avg NDCG
+[0.         0.05815946 0.08391559 0.10125255 0.11431914 0.12500331
+ 0.13390759 0.14133292 0.14870999 0.1534131 ]
+hyper-parameter configurations:
+vector size:  256 hidden layers:  [512, 256, 128] learning rate:  0.0001 Drop out prob:  0.0
+mean_absolute_error:  0.755
+mean_squared_error:  0.894
+root_mean_squared_error:  0.946
+r2 score:  0.279
+avg HR
+[0.         0.11258946 0.18314686 0.23767765 0.27839935 0.31660115
+ 0.35248463 0.37990122 0.40661224 0.43181131]
+avg NDCG
+[0.         0.11258946 0.15710622 0.18437162 0.2019095  0.21668797
+ 0.22946993 0.23860879 0.24703518 0.25462085]
+hyper-parameter configurations:
+vector size:  256 hidden layers:  [512, 256, 128] learning rate:  0.0001 Drop out prob:  0.1
+mean_absolute_error:  0.756
+mean_squared_error:  0.897
+root_mean_squared_error:  0.947
+r2 score:  0.277
+avg HR
+[0.         0.11329503 0.18425562 0.23475456 0.2745691  0.3152908
+ 0.34845278 0.380506   0.40973692 0.43654874]
+avg NDCG
+[0.         0.11329503 0.15806618 0.18331565 0.20046284 0.21621614
+ 0.22802868 0.23871308 0.24793441 0.25600557]
+hyper-parameter configurations:
+vector size:  256 hidden layers:  [512, 256, 128] learning rate:  0.0001 Drop out prob:  0.25
+mean_absolute_error:  0.755
+mean_squared_error:  0.895
+root_mean_squared_error:  0.946
+r2 score:  0.278
+avg HR
+[0.         0.10956557 0.17578873 0.22900917 0.27204919 0.30924302
+ 0.34260659 0.37355105 0.40106844 0.42546114]
+avg NDCG
+[0.         0.10956557 0.15134773 0.17795795 0.19649428 0.21088282
+ 0.22276716 0.23308198 0.24176275 0.24910569]
+hyper-parameter configurations:
+vector size:  256 hidden layers:  [512, 256, 128] learning rate:  0.0001 Drop out prob:  0.5
+mean_absolute_error:  0.735
+mean_squared_error:  0.867
+root_mean_squared_error:  0.931
+r2 score:  0.301
+avg HR
+[0.         0.10039311 0.16288681 0.21076504 0.24977321 0.28323758
+ 0.31549239 0.34653765 0.37163592 0.39592783]
+avg NDCG
+[0.         0.10039311 0.13982224 0.16376136 0.18056126 0.19350705
+ 0.20499644 0.21534486 0.22326249 0.23057508]
+hyper-parameter configurations:
+vector size:  256 hidden layers:  [512, 256, 128] learning rate:  0.001 Drop out prob:  0.0
+mean_absolute_error:  0.702
+mean_squared_error:  0.796
+root_mean_squared_error:  0.892
+r2 score:  0.358
+avg HR
+[0.         0.08718879 0.13617579 0.17961899 0.2173168  0.24594295
+ 0.27134361 0.29603871 0.31730672 0.33827235]
+avg NDCG
+[0.         0.08718879 0.11809615 0.13981775 0.15605331 0.16712742
+ 0.17617532 0.18440701 0.19111632 0.19742761]
+hyper-parameter configurations:
+vector size:  256 hidden layers:  [512, 256, 128] learning rate:  0.001 Drop out prob:  0.1
+mean_absolute_error:  0.705
+mean_squared_error:  0.807
+root_mean_squared_error:  0.898
+r2 score:  0.349
+avg HR
+[0.         0.08950711 0.14282834 0.18123173 0.21509928 0.24422941
+ 0.26801734 0.29321641 0.31639956 0.33655881]
+avg NDCG
+[0.         0.08950711 0.12314906 0.14235075 0.15693672 0.16820579
+ 0.17667922 0.18507891 0.19239238 0.19846092]
+hyper-parameter configurations:
+vector size:  256 hidden layers:  [512, 256, 128] learning rate:  0.001 Drop out prob:  0.25
+mean_absolute_error:  0.707
+mean_squared_error:  0.812
+root_mean_squared_error:  0.901
+r2 score:  0.345
+avg HR
+[0.         0.07972987 0.12992642 0.17064812 0.20592682 0.23687128
+ 0.26529584 0.28948695 0.31135974 0.33313174]
+avg NDCG
+[0.         0.07972987 0.11140036 0.13176122 0.14695493 0.15892588
+ 0.16905091 0.17711461 0.18401471 0.19056873]
+hyper-parameter configurations:
+vector size:  256 hidden layers:  [512, 256, 128] learning rate:  0.001 Drop out prob:  0.5
+mean_absolute_error:  0.715
+mean_squared_error:  0.822
+root_mean_squared_error:  0.907
+r2 score:  0.337
+avg HR
+[0.         0.07499244 0.12387864 0.16208044 0.1929241  0.22225582
+ 0.24846286 0.26811813 0.29099889 0.31115815]
+avg NDCG
+[0.         0.07499244 0.1058362  0.1249371  0.13822074 0.1495678
+ 0.15890293 0.16545469 0.17267277 0.17874131]
+hyper-parameter configurations:
+vector size:  256 hidden layers:  [512, 256, 128] learning rate:  0.01 Drop out prob:  0.0
+mean_absolute_error:  0.786
+mean_squared_error:  1.127
+root_mean_squared_error:  1.062
+r2 score:  0.091
+avg HR
+[0.         0.04828142 0.08406411 0.11299264 0.14040923 0.16177805
+ 0.18455801 0.20884991 0.23062191 0.24856365]
+avg NDCG
+[0.         0.04828142 0.07085778 0.08532205 0.09712973 0.10539632
+ 0.11351071 0.12160801 0.12847631 0.13387731]
+hyper-parameter configurations:
+vector size:  256 hidden layers:  [512, 256, 128] learning rate:  0.01 Drop out prob:  0.1
+mean_absolute_error:  0.995
+mean_squared_error:  1.965
+root_mean_squared_error:  1.402
+r2 score: -0.584
+avg HR
+[0.         0.10492894 0.16772503 0.21721601 0.26176797 0.29734906
+ 0.33282935 0.3614555  0.38746094 0.41134966]
+avg NDCG
+[0.         0.10492894 0.14454886 0.16929435 0.18848183 0.20224648
+ 0.21488481 0.22442686 0.23263067 0.23982189]
+hyper-parameter configurations:
+vector size:  256 hidden layers:  [512, 256, 128] learning rate:  0.01 Drop out prob:  0.25
+mean_absolute_error:  0.800
+mean_squared_error:  1.291
+root_mean_squared_error:  1.136
+r2 score: -0.041
+avg HR
+[0.         0.05946981 0.10190505 0.13778853 0.16893458 0.19715754
+ 0.22568289 0.2525955  0.27749219 0.30047374]
+avg NDCG
+[0.         0.05946981 0.08624347 0.10418521 0.11759908 0.12851721
+ 0.13867815 0.14764902 0.15550305 0.16242118]
+hyper-parameter configurations:
+vector size:  256 hidden layers:  [512, 256, 128] learning rate:  0.01 Drop out prob:  0.5
+mean_absolute_error:  0.862
+mean_squared_error:  1.261
+root_mean_squared_error:  1.123
+r2 score: -0.017
+avg HR
+[0.         0.37465981 0.37869166 0.38060679 0.3830259  0.3858482
+ 0.3885697  0.39058563 0.39360952 0.39743977]
+avg NDCG
+[0.         0.37465981 0.37720363 0.37816119 0.37920305 0.38029486
+ 0.38126428 0.38193625 0.38289018 0.38404321]
+hyper-parameter configurations:
+vector size:  256 hidden layers:  [256, 128, 64] learning rate:  0.0001 Drop out prob:  0.0
+mean_absolute_error:  0.782
+mean_squared_error:  0.954
+root_mean_squared_error:  0.977
+r2 score:  0.230
+avg HR
+[0.         0.12307227 0.19131136 0.25229312 0.29805463 0.33998589
+ 0.37617176 0.40802338 0.43896785 0.46446931]
+avg NDCG
+[0.         0.12307227 0.16612634 0.19661722 0.21632563 0.23254686
+ 0.24543652 0.25605373 0.26581562 0.27349233]
+hyper-parameter configurations:
+vector size:  256 hidden layers:  [256, 128, 64] learning rate:  0.0001 Drop out prob:  0.1
+mean_absolute_error:  0.780
+mean_squared_error:  0.951
+root_mean_squared_error:  0.975
+r2 score:  0.233
+avg HR
+[0.         0.11551255 0.18788429 0.24120552 0.29160367 0.32950307
+ 0.36306824 0.39743977 0.42757787 0.45690959]
+avg NDCG
+[0.         0.11551255 0.16117403 0.18783465 0.20953995 0.22420144
+ 0.23615759 0.24761477 0.25712228 0.26595201]
+hyper-parameter configurations:
+vector size:  256 hidden layers:  [256, 128, 64] learning rate:  0.0001 Drop out prob:  0.25
+mean_absolute_error:  0.776
+mean_squared_error:  0.945
+root_mean_squared_error:  0.972
+r2 score:  0.237
+avg HR
+[0.         0.11702449 0.18818667 0.23979438 0.28837819 0.3288983
+ 0.36367302 0.39552464 0.42304203 0.45197057]
+avg NDCG
+[0.         0.11702449 0.16192283 0.18772668 0.20865059 0.22432591
+ 0.23671291 0.24733012 0.25601089 0.26471925]
+hyper-parameter configurations:
+vector size:  256 hidden layers:  [256, 128, 64] learning rate:  0.0001 Drop out prob:  0.5
+mean_absolute_error:  0.774
+mean_squared_error:  0.941
+root_mean_squared_error:  0.970
+r2 score:  0.241
+avg HR
+[0.         0.11158149 0.1820381  0.24150791 0.2906965  0.32839432
+ 0.36296744 0.39502066 0.42354601 0.44934986]
+avg NDCG
+[0.         0.11158149 0.15603466 0.18576957 0.20695394 0.22153745
+ 0.23385264 0.24453705 0.2535358  0.26130353]
+hyper-parameter configurations:
+vector size:  256 hidden layers:  [256, 128, 64] learning rate:  0.001 Drop out prob:  0.0
+mean_absolute_error:  0.706
+mean_squared_error:  0.789
+root_mean_squared_error:  0.888
+r2 score:  0.364
+avg HR
+[0.         0.07126298 0.11752847 0.15411753 0.18617075 0.21429291
+ 0.23989517 0.2634815  0.28444713 0.30289285]
+avg NDCG
+[0.         0.07126298 0.10045326 0.11874778 0.13255235 0.14343149
+ 0.1525512  0.16041331 0.16702723 0.17257995]
+hyper-parameter configurations:
+vector size:  256 hidden layers:  [256, 128, 64] learning rate:  0.001 Drop out prob:  0.1
+mean_absolute_error:  0.698
+mean_squared_error:  0.785
+root_mean_squared_error:  0.886
+r2 score:  0.367
+avg HR
+[0.         0.07358129 0.11702449 0.15341195 0.18455801 0.21288177
+ 0.2391896  0.26398549 0.28515271 0.30128011]
+avg NDCG
+[0.         0.07358129 0.1009909  0.11918463 0.13259851 0.14355563
+ 0.15292667 0.16119197 0.16786948 0.17272431]
+hyper-parameter configurations:
+vector size:  256 hidden layers:  [256, 128, 64] learning rate:  0.001 Drop out prob:  0.25
+mean_absolute_error:  0.705
+mean_squared_error:  0.808
+root_mean_squared_error:  0.899
+r2 score:  0.349
+avg HR
+[0.         0.06632396 0.11228707 0.14373551 0.17276484 0.19907267
+ 0.22638847 0.249874   0.27124282 0.29261163]
+avg NDCG
+[0.         0.06632396 0.09532345 0.11104767 0.12354993 0.13372718
+ 0.14345727 0.15128578 0.15802689 0.16445954]
+hyper-parameter configurations:
+vector size:  256 hidden layers:  [256, 128, 64] learning rate:  0.001 Drop out prob:  0.5
+mean_absolute_error:  0.725
+mean_squared_error:  0.817
+root_mean_squared_error:  0.904
+r2 score:  0.341
+avg HR
+[0.         0.06440883 0.10704566 0.13980446 0.16752344 0.19352888
+ 0.21892954 0.24231428 0.26307832 0.28222961]
+avg NDCG
+[0.         0.06440883 0.09130968 0.10768907 0.11962699 0.12968727
+ 0.13873517 0.14653008 0.1530804  0.15884552]
+hyper-parameter configurations:
+vector size:  256 hidden layers:  [256, 128, 64] learning rate:  0.01 Drop out prob:  0.0
+mean_absolute_error:  0.725
+mean_squared_error:  0.868
+root_mean_squared_error:  0.931
+r2 score:  0.300
+avg HR
+[0.         0.05644592 0.0897087  0.12095555 0.14343312 0.16913618
+ 0.19000101 0.21005947 0.23152908 0.24967241]
+avg NDCG
+[0.         0.05644592 0.0774324  0.09305582 0.10273639 0.11267969
+ 0.12011189 0.12679804 0.13357095 0.13903264]
+hyper-parameter configurations:
+vector size:  256 hidden layers:  [256, 128, 64] learning rate:  0.01 Drop out prob:  0.1
+mean_absolute_error:  0.722
+mean_squared_error:  0.856
+root_mean_squared_error:  0.925
+r2 score:  0.310
+avg HR
+[0.         0.06450963 0.10664248 0.14161879 0.17427679 0.2009878
+ 0.2282028  0.25178913 0.27094043 0.29170447]
+avg NDCG
+[0.         0.06450963 0.09109249 0.10858065 0.12264569 0.13297892
+ 0.1426731  0.15053521 0.15657677 0.16282736]
+hyper-parameter configurations:
+vector size:  256 hidden layers:  [256, 128, 64] learning rate:  0.01 Drop out prob:  0.25
+mean_absolute_error:  0.711
+mean_squared_error:  0.827
+root_mean_squared_error:  0.909
+r2 score:  0.333
+avg HR
+[0.         0.06844068 0.11339583 0.14726338 0.17820784 0.20522125
+ 0.22800121 0.25178913 0.27225078 0.2906965 ]
+avg NDCG
+[0.         0.06844068 0.09680422 0.113738   0.12706505 0.13751526
+ 0.14562965 0.15355896 0.16001389 0.1655666 ]
+hyper-parameter configurations:
+vector size:  256 hidden layers:  [256, 128, 64] learning rate:  0.01 Drop out prob:  0.5
+mean_absolute_error:  0.783
+mean_squared_error:  1.010
+root_mean_squared_error:  1.005
+r2 score:  0.185
+avg HR
+[0.         0.07640359 0.11641972 0.14383631 0.16671706 0.18516279
+ 0.20239895 0.21802238 0.23455297 0.25068037]
+avg NDCG
+[0.         0.07640359 0.10165095 0.11535925 0.12521346 0.13234923
+ 0.13848888 0.14369669 0.14891151 0.15376634]
+hyper-parameter configurations:
+vector size:  256 hidden layers:  [128, 64, 32] learning rate:  0.0001 Drop out prob:  0.0
+mean_absolute_error:  0.943
+mean_squared_error:  1.437
+root_mean_squared_error:  1.199
+r2 score: -0.159
+avg HR
+[0.         0.12589457 0.19806471 0.25632497 0.30531196 0.34815039
+ 0.38655377 0.41699425 0.44854349 0.4756577 ]
+avg NDCG
+[0.         0.12589457 0.17142886 0.20055899 0.22165654 0.2382287
+ 0.25190826 0.26205509 0.27200777 0.28016996]
+hyper-parameter configurations:
+vector size:  256 hidden layers:  [128, 64, 32] learning rate:  0.0001 Drop out prob:  0.1
+mean_absolute_error:  0.888
+mean_squared_error:  1.277
+root_mean_squared_error:  1.130
+r2 score: -0.030
+avg HR
+[0.         0.12035077 0.19050499 0.24816047 0.29482915 0.3341397
+ 0.37062796 0.40449551 0.43533918 0.46396533]
+avg NDCG
+[0.         0.12035077 0.16461315 0.19344089 0.21354    0.2287474
+ 0.24174478 0.25303396 0.26276406 0.27138139]
+hyper-parameter configurations:
+vector size:  256 hidden layers:  [128, 64, 32] learning rate:  0.0001 Drop out prob:  0.25
+mean_absolute_error:  0.944
+mean_squared_error:  1.436
+root_mean_squared_error:  1.198
+r2 score: -0.158
+avg HR
+[0.         0.11531096 0.18990021 0.24392702 0.29049491 0.33061183
+ 0.36790646 0.40308437 0.43150892 0.46073984]
+avg NDCG
+[0.         0.11531096 0.16237154 0.18938494 0.20944064 0.22495998
+ 0.2382446  0.24997057 0.25893752 0.2677369 ]
+hyper-parameter configurations:
+vector size:  256 hidden layers:  [128, 64, 32] learning rate:  0.0001 Drop out prob:  0.5
+mean_absolute_error:  0.928
+mean_squared_error:  1.419
+root_mean_squared_error:  1.191
+r2 score: -0.145
+avg HR
+[0.         0.10674327 0.18092934 0.2364681  0.28142324 0.32133857
+ 0.36044754 0.39088802 0.42062292 0.44773712]
+avg NDCG
+[0.         0.10674327 0.15354947 0.18131885 0.20067998 0.21612133
+ 0.23005223 0.24019905 0.24957937 0.25774156]
+hyper-parameter configurations:
+vector size:  256 hidden layers:  [128, 64, 32] learning rate:  0.001 Drop out prob:  0.0
+mean_absolute_error:  0.739
+mean_squared_error:  0.856
+root_mean_squared_error:  0.925
+r2 score:  0.309
+avg HR
+[0.         0.06491281 0.10734805 0.13990525 0.16822901 0.19483923
+ 0.22104627 0.24201189 0.26207036 0.28152404]
+avg NDCG
+[0.         0.06491281 0.09168647 0.10796507 0.12016345 0.13045768
+ 0.13979282 0.14678136 0.1531091  0.15896524]
+hyper-parameter configurations:
+vector size:  256 hidden layers:  [128, 64, 32] learning rate:  0.001 Drop out prob:  0.1
+mean_absolute_error:  0.736
+mean_squared_error:  0.839
+root_mean_squared_error:  0.916
+r2 score:  0.324
+avg HR
+[0.         0.05140611 0.08930551 0.11752847 0.14091321 0.16419716
+ 0.18576756 0.20784195 0.22961395 0.25047878]
+avg NDCG
+[0.         0.05140611 0.07531797 0.08942945 0.09950071 0.10850817
+ 0.1161917  0.12354983 0.13041813 0.13669907]
+hyper-parameter configurations:
+vector size:  256 hidden layers:  [128, 64, 32] learning rate:  0.001 Drop out prob:  0.25
+mean_absolute_error:  0.715
+mean_squared_error:  0.811
+root_mean_squared_error:  0.901
+r2 score:  0.346
+avg HR
+[0.         0.0569499  0.09928435 0.13506703 0.16328999 0.1928233
+ 0.21580486 0.23939119 0.26146558 0.2826328 ]
+avg NDCG
+[0.         0.0569499  0.08365996 0.1015513  0.11370627 0.12513132
+ 0.13331751 0.14117962 0.14814332 0.15451529]
+hyper-parameter configurations:
+vector size:  256 hidden layers:  [128, 64, 32] learning rate:  0.001 Drop out prob:  0.5
+mean_absolute_error:  0.715
+mean_squared_error:  0.833
+root_mean_squared_error:  0.912
+r2 score:  0.329
+avg HR
+[0.         0.08053624 0.13446225 0.17447838 0.20552364 0.2363673
+ 0.2608608  0.28414474 0.30752948 0.33020865]
+avg NDCG
+[0.         0.08053624 0.11455976 0.13456783 0.14793829 0.15987025
+ 0.16859501 0.17635633 0.18373339 0.1905605 ]
+hyper-parameter configurations:
+vector size:  256 hidden layers:  [128, 64, 32] learning rate:  0.01 Drop out prob:  0.0
+mean_absolute_error:  0.821
+mean_squared_error:  1.083
+root_mean_squared_error:  1.041
+r2 score:  0.127
+avg HR
+[0.         0.06874307 0.1112791  0.14313073 0.17135369 0.19655277
+ 0.2202399  0.2419111  0.26378389 0.28404395]
+avg NDCG
+[0.         0.06874307 0.09558032 0.11150613 0.1236611  0.13340943
+ 0.14184696 0.14907069 0.15597079 0.16206968]
+hyper-parameter configurations:
+vector size:  256 hidden layers:  [128, 64, 32] learning rate:  0.01 Drop out prob:  0.1
+mean_absolute_error:  1.031
+mean_squared_error:  1.670
+root_mean_squared_error:  1.292
+r2 score: -0.347
+avg HR
+[0.         0.05916742 0.08880153 0.11581494 0.13688136 0.15915734
+ 0.17719988 0.1955448  0.21066425 0.22467493]
+avg NDCG
+[0.         0.05916742 0.07786446 0.09137117 0.10044398 0.10906151
+ 0.11548839 0.12160336 0.12637302 0.13059065]
+hyper-parameter configurations:
+vector size:  256 hidden layers:  [128, 64, 32] learning rate:  0.01 Drop out prob:  0.25
+mean_absolute_error:  0.740
+mean_squared_error:  0.866
+root_mean_squared_error:  0.930
+r2 score:  0.302
+avg HR
+[0.         0.0623929  0.10492894 0.13617579 0.16439875 0.19110977
+ 0.21570406 0.23626651 0.25561939 0.27094043]
+avg NDCG
+[0.         0.0623929  0.08923015 0.10485358 0.11700855 0.12734178
+ 0.13610244 0.14295659 0.14906175 0.15367384]
+hyper-parameter configurations:
+vector size:  256 hidden layers:  [128, 64, 32] learning rate:  0.01 Drop out prob:  0.5
+mean_absolute_error:  0.725
+mean_squared_error:  0.842
+root_mean_squared_error:  0.917
+r2 score:  0.321
+avg HR
+[0.         0.04122568 0.07428687 0.10351779 0.12740651 0.15069045
+ 0.17236166 0.19252092 0.21096664 0.22759802]
+avg NDCG
+[0.         0.04122568 0.06208497 0.07670043 0.08698874 0.0959962
+ 0.10371564 0.11043539 0.11625437 0.12126091]
+hyper-parameter configurations:
+vector size:  256 hidden layers:  [64, 32, 16] learning rate:  0.0001 Drop out prob:  0.0
+mean_absolute_error:  1.743
+mean_squared_error:  4.789
+root_mean_squared_error:  2.188
+r2 score: -2.862
+avg HR
+[0.         0.11319423 0.17971979 0.23021873 0.27366193 0.31166213
+ 0.34653765 0.37687733 0.40399153 0.42757787]
+avg NDCG
+[0.         0.11319423 0.15516718 0.18041666 0.19912662 0.21382711
+ 0.22625002 0.23636325 0.24491682 0.25201702]
+hyper-parameter configurations:
+vector size:  256 hidden layers:  [64, 32, 16] learning rate:  0.0001 Drop out prob:  0.1
+mean_absolute_error:  1.843
+mean_squared_error:  5.090
+root_mean_squared_error:  2.256
+r2 score: -3.105
+avg HR
+[0.         0.11077512 0.17457918 0.22648927 0.2690253  0.30248967
+ 0.33776837 0.37002318 0.39713739 0.42203407]
+avg NDCG
+[0.         0.11077512 0.151031   0.17698604 0.19530532 0.2082511
+ 0.22081763 0.23156923 0.24012281 0.24761746]
+hyper-parameter configurations:
+vector size:  256 hidden layers:  [64, 32, 16] learning rate:  0.0001 Drop out prob:  0.25
+mean_absolute_error:  1.686
+mean_squared_error:  4.509
+root_mean_squared_error:  2.123
+r2 score: -2.636
+avg HR
+[0.         0.11037194 0.17830864 0.23132749 0.26731176 0.30853745
+ 0.34311057 0.37324866 0.40036287 0.42556194]
+avg NDCG
+[0.         0.11037194 0.15323522 0.17974465 0.19524223 0.2111905
+ 0.2235057  0.23355173 0.24210531 0.24969099]
+hyper-parameter configurations:
+vector size:  256 hidden layers:  [64, 32, 16] learning rate:  0.0001 Drop out prob:  0.5
+mean_absolute_error:  1.745
+mean_squared_error:  4.773
+root_mean_squared_error:  2.185
+r2 score: -2.849
+avg HR
+[0.         0.11299264 0.17760306 0.22719484 0.26963008 0.30611833
+ 0.34421933 0.3722407  0.40026207 0.42445318]
+avg NDCG
+[0.         0.11299264 0.15375728 0.17855317 0.19682903 0.21094461
+ 0.22451646 0.23385692 0.24269668 0.24997893]
+hyper-parameter configurations:
+vector size:  256 hidden layers:  [64, 32, 16] learning rate:  0.001 Drop out prob:  0.0
+mean_absolute_error:  0.736
+mean_squared_error:  0.841
+root_mean_squared_error:  0.917
+r2 score:  0.322
+avg HR
+[0.         0.04213285 0.07217014 0.09595807 0.11823405 0.1413164
+ 0.16339079 0.18546517 0.20743877 0.22961395]
+avg NDCG
+[0.         0.04213285 0.06108427 0.07297823 0.08257198 0.09150145
+ 0.0993645  0.10672263 0.11365453 0.12032993]
+hyper-parameter configurations:
+vector size:  256 hidden layers:  [64, 32, 16] learning rate:  0.001 Drop out prob:  0.1
+mean_absolute_error:  0.720
+mean_squared_error:  0.832
+root_mean_squared_error:  0.912
+r2 score:  0.329
+avg HR
+[0.         0.05926822 0.1032154  0.14051003 0.17588953 0.20723717
+ 0.23566173 0.26247354 0.28706784 0.31085576]
+avg NDCG
+[0.         0.05926822 0.0869958  0.10564312 0.12088024 0.13300716
+ 0.14313219 0.15206946 0.1598281  0.16698898]
+hyper-parameter configurations:
+vector size:  256 hidden layers:  [64, 32, 16] learning rate:  0.001 Drop out prob:  0.25
+mean_absolute_error:  0.721
+mean_squared_error:  0.833
+root_mean_squared_error:  0.913
+r2 score:  0.328
+avg HR
+[0.         0.05634513 0.09696603 0.13355509 0.16812821 0.20068541
+ 0.23223465 0.25995363 0.28434634 0.30783187]
+avg NDCG
+[0.         0.05634513 0.08197406 0.10026859 0.11515843 0.12775327
+ 0.13899134 0.148231   0.15592604 0.16299589]
+hyper-parameter configurations:
+vector size:  256 hidden layers:  [64, 32, 16] learning rate:  0.001 Drop out prob:  0.5
+mean_absolute_error:  0.758
+mean_squared_error:  0.881
+root_mean_squared_error:  0.938
+r2 score:  0.290
+avg HR
+[0.         0.04122568 0.07469005 0.10261062 0.13214394 0.15986292
+ 0.18556597 0.21399053 0.23737526 0.2580385 ]
+avg NDCG
+[0.         0.04122568 0.06233935 0.07629963 0.08901894 0.09974211
+ 0.10889772 0.11837257 0.12574963 0.13196989]
+hyper-parameter configurations:
+vector size:  256 hidden layers:  [64, 32, 16] learning rate:  0.01 Drop out prob:  0.0
+mean_absolute_error:  0.733
+mean_squared_error:  0.844
+root_mean_squared_error:  0.919
+r2 score:  0.320
+avg HR
+[0.         0.043544   0.0787219  0.10019151 0.1248866  0.14343312
+ 0.16046769 0.17871182 0.19625038 0.21338575]
+avg NDCG
+[0.         0.043544   0.06573878 0.07647359 0.08710919 0.09428396
+ 0.1003518  0.10643317 0.11196597 0.11712423]
+hyper-parameter configurations:
+vector size:  256 hidden layers:  [64, 32, 16] learning rate:  0.01 Drop out prob:  0.1
+mean_absolute_error:  0.714
+mean_squared_error:  0.839
+root_mean_squared_error:  0.916
+r2 score:  0.324
+avg HR
+[0.         0.08184659 0.1359742  0.17709908 0.21217619 0.2419111
+ 0.26741256 0.29412358 0.3150892  0.33665961]
+avg NDCG
+[0.         0.08184659 0.11599731 0.13655975 0.15166664 0.16316967
+ 0.17225347 0.18115715 0.18777107 0.19426441]
+hyper-parameter configurations:
+vector size:  256 hidden layers:  [64, 32, 16] learning rate:  0.01 Drop out prob:  0.25
+mean_absolute_error:  0.723
+mean_squared_error:  0.877
+root_mean_squared_error:  0.937
+r2 score:  0.292
+avg HR
+[0.         0.06924705 0.11601653 0.15512549 0.18798508 0.21681282
+ 0.24241508 0.26821893 0.29059571 0.31105735]
+avg NDCG
+[0.         0.06924705 0.09875531 0.11830979 0.13246164 0.14361374
+ 0.15273344 0.16133473 0.16839381 0.17455338]
+hyper-parameter configurations:
+vector size:  256 hidden layers:  [64, 32, 16] learning rate:  0.01 Drop out prob:  0.5
+mean_absolute_error:  0.710
+mean_squared_error:  0.804
+root_mean_squared_error:  0.897
+r2 score:  0.352
+avg HR
+[0.         0.0570507  0.09878036 0.13234553 0.1602661  0.18838827
+ 0.2146961  0.24039915 0.2608608  0.28051608]
+avg NDCG
+[0.         0.0570507  0.08337919 0.10016177 0.11218651 0.12306564
+ 0.13243668 0.14100437 0.1474593  0.15337613]
+
+
+Evaluation on the test dataset:
+mean_absolute_error:  0.705
+mean_squared_error:  0.791
+root_mean_squared_error:  0.889
+r2 score:  0.352
+avg HR
+[0.         0.07468838 0.12293928 0.15651387 0.18827905 0.2168275
+ 0.24447125 0.26688782 0.28970647 0.31071572]
+avg NDCG
+[0.         0.07468838 0.10513131 0.1219186  0.13559912 0.14664317
+ 0.15649007 0.16396226 0.17116075 0.17748516]
