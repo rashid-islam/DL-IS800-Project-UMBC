@@ -6,7 +6,6 @@ Code implementing IS800 course project, titled as "AE-NCF: An Autoencoder-inform
 * Kamrun Naher Keya (email: kkeya1@umbc.edu)
 
 ## Required Libraries
-
 * NumPy
 * pandas
 * scikit-learn
